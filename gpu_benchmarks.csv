@@ -1,0 +1,280 @@
+﻿rank,name,type,price_usd,score,value_for_money,popularity,stars
+1,NVIDIA RTX PRO 6000 Blackwell,Desktop/Mobile,,15797.0,,0.0,5
+2,NVIDIA GeForce RTX 5090,Desktop/Mobile,1999.0,14544.0,7,8.7,5
+3,NVIDIA GeForce RTX 5090 D,Desktop/Mobile,,14475.0,,0.3,5
+4,NVIDIA RTX 5090 D v2,Desktop/Mobile,,14301.0,,0.1,5
+5,NVIDIA GeForce RTX 4090,Desktop/Mobile,1599.0,9237.0,5,2.4,5
+6,NVIDIA GeForce RTX 5080,Desktop/Mobile,999.0,8858.0,8,11.2,5
+7,NVIDIA GeForce RTX 4090 D,Desktop/Mobile,1599.0,8615.0,5,0.0,5
+8,AMD Radeon RX 9070 XT,Desktop/Mobile,599.0,7238.0,12,15.8,4
+9,AMD Radeon AI PRO R9700,Desktop/Mobile,,7014.0,,0.0,4
+10,NVIDIA GeForce RTX 5070 Ti,Desktop/Mobile,749.0,6905.0,9,8.7,4
+11,AMD Radeon RX 7900 XTX,Desktop/Mobile,999.0,6862.0,6,1.9,4
+12,NVIDIA GeForce RTX 4080 SUPER,Desktop/Mobile,999.0,6624.0,6,1.4,4
+13,NVIDIA GeForce RTX 4080,Desktop/Mobile,1199.0,6595.0,5,1.1,4
+14,AMD Radeon RX 9070,Desktop/Mobile,549.0,6276.0,11,1.7,4
+15,NVIDIA GeForce RTX 5090 (notebook),Desktop/Mobile,,6181.0,,0.2,4
+16,NVIDIA GeForce RTX 3090 Ti,Desktop/Mobile,2000.0,5755.0,2,0.2,4
+17,AMD Radeon RX 7900 XT,Desktop/Mobile,899.0,5622.0,6,0.9,4
+18,NVIDIA GeForce RTX 4070 Ti SUPER,Desktop/Mobile,799.0,5594.0,7,1.1,4
+19,"Mac Studio (2025 M3 Ultra, 80-core GPU)",Mac,,5472.0,,0.0,3
+20,NVIDIA GeForce RTX 5070,Desktop/Mobile,549.0,5300.0,9,3.4,3
+21,AMD Radeon RX 9070 GRE,Desktop/Mobile,,5174.0,,0.0,3
+22,NVIDIA GeForce RTX 5080 (notebook),Desktop/Mobile,,5173.0,,0.4,3
+23,NVIDIA GeForce RTX 3090,Desktop/Mobile,1499.0,5117.0,3,1.0,3
+24,NVIDIA GeForce RTX 3080 Ti,Desktop/Mobile,1199.0,5094.0,4,1.2,3
+25,NVIDIA GeForce RTX 4070 Ti,Desktop/Mobile,799.0,5041.0,6,1.1,3
+26,NVIDIA RTX 4090 (notebook),Desktop/Mobile,,4871.0,,0.3,3
+27,AMD Radeon RX 7900 GRE,Desktop/Mobile,550.0,4802.0,8,0.3,3
+28,NVIDIA GeForce RTX 3080 12 GB,Desktop/Mobile,799.0,4796.0,6,0.3,3
+29,NVIDIA GeForce RTX 4070 SUPER,Desktop/Mobile,599.0,4650.0,7,1.6,3
+30,"Mac Studio (2025 M3 Ultra, 60-core GPU)",Mac,,4539.0,,0.0,3
+31,NVIDIA GeForce RTX 3080,Desktop/Mobile,699.0,4443.0,6,1.3,3
+32,NVIDIA GeForce RTX 3080 LHR,Desktop/Mobile,,4432.0,,1.0,3
+33,AMD Radeon RX 6950 XT,Desktop/Mobile,1299.0,4215.0,3,0.3,3
+34,"MacBook Pro (2026 M5 Max, 40-core GPU, 16"")",Mac,,4198.0,,0.0,3
+35,NVIDIA RTX 4080 (notebook),Desktop/Mobile,,4185.0,,0.3,3
+36,AMD Radeon RX 7800 XT,Desktop/Mobile,499.0,4153.0,8,1.4,3
+37,"Mac Studio (2023 M2 Ultra, 76-core GPU)",Mac,,4143.0,,0.0,3
+38,AMD Radeon RX 6900 XT,Desktop/Mobile,999.0,4065.0,4,0.6,3
+39,NVIDIA GeForce RTX 4070,Desktop/Mobile,600.0,3853.0,6,1.3,3
+40,NVIDIA GeForce RTX 5070 Ti (notebook),Desktop/Mobile,,3845.0,,0.4,3
+41,AMD Radeon RX 9060 XT 16 GB,Desktop/Mobile,,3798.0,,1.2,3
+42,NVIDIA RTX A5000,Desktop/Mobile,,3790.0,,0.0,3
+43,NVIDIA Titan RTX,Desktop/Mobile,2499.0,3778.0,1,0.0,3
+44,"MacBook Pro (2026 M5 Max, 40-core GPU, 14"")",Mac,,3763.0,,0.0,3
+45,AMD Radeon RX 9060 XT,Desktop/Mobile,,3721.0,,0.2,3
+46,AMD Radeon RX 6800 XT,Desktop/Mobile,649.0,3672.0,5,0.6,3
+47,"Mac Studio (2025 M4 Max, 40-core GPU)",Mac,,3653.0,,0.0,3
+48,NVIDIA GeForce RTX 5060 Ti 16 GB,Desktop/Mobile,,3598.0,,1.3,3
+49,NVIDIA GeForce RTX 5060 Ti,Desktop/Mobile,,3546.0,,0.3,3
+50,"MacBook Pro (2024 M4 Max, 40-core GPU, 16"")",Mac,,3530.0,,0.0,3
+51,NVIDIA Titan V,Desktop/Mobile,2999.0,3513.0,1,0.0,3
+52,NVIDIA GeForce RTX 2080 Ti,Desktop/Mobile,999.0,3502.0,3,0.5,3
+53,"Mac Studio (2023 M2 Ultra, 60-core GPU)",Mac,,3500.0,,0.0,3
+54,NVIDIA GeForce RTX 3070 Ti,Desktop/Mobile,599.0,3499.0,5,1.0,3
+55,"MacBook Pro (2026 M5 Max, 32-core GPU, 16"")",Mac,,3387.0,,0.0,3
+56,AMD Radeon RX 7700 XT,Desktop/Mobile,449.0,3320.0,7,0.4,3
+57,AMD Radeon RX 9060,Desktop/Mobile,,3292.0,,0.0,3
+58,AMD Radeon RX 6800,Desktop/Mobile,579.0,3189.0,5,0.4,3
+59,NVIDIA RTX A4500,Desktop/Mobile,,3186.0,,0.0,3
+60,NVIDIA GeForce RTX 3070,Desktop/Mobile,499.0,3180.0,6,1.4,3
+61,"MacBook Pro (2024 M4 Max, 40-core GPU, 14"")",Mac,,3178.0,,0.0,3
+62,NVIDIA GeForce RTX 3070 LHR,Desktop/Mobile,,3174.0,,0.7,3
+63,NVIDIA GeForce RTX 5060,Desktop/Mobile,,3170.0,,0.9,3
+64,"Mac Studio (2022 M1 Ultra, 64-core GPU)",Mac,,3139.0,,0.0,3
+65,"MacBook Pro (2026 M5 Max, 32-core GPU, 14"")",Mac,,3070.0,,0.0,3
+66,Intel Arc B580,Desktop/Mobile,,3055.0,,0.4,3
+67,AMD Radeon RX 7800M,Desktop/Mobile,,3010.0,,0.0,3
+68,NVIDIA GeForce RTX 5070 (notebook),Desktop/Mobile,,2979.0,,0.2,3
+69,Intel Arc A770,Desktop/Mobile,329.0,2965.0,9,0.1,3
+70,"MacBook Pro (2023 M3 Max, 40-core GPU, 16"")",Mac,,2926.0,,0.0,3
+71,NVIDIA GeForce RTX 3080 Ti (notebook),Desktop/Mobile,,2919.0,,0.1,3
+72,NVIDIA GeForce RTX 4060 Ti 8 GB,Desktop/Mobile,399.0,2914.0,7,0.8,3
+73,NVIDIA GeForce RTX 4060 Ti 16 GB,Desktop/Mobile,,2911.0,,0.3,3
+74,"MacBook Pro (2024 M4 Max, 32-core GPU, 16"")",Mac,,2891.0,,0.0,3
+75,"Mac Studio (2025 M4 Max, 32-core GPU)",Mac,,2890.0,,0.0,3
+76,NVIDIA GeForce RTX 3060 Ti GDDR6X,Desktop/Mobile,,2807.0,,0.1,3
+77,"MacBook Pro (2024 M4 Max, 32-core GPU, 14"")",Mac,,2743.0,,0.0,3
+78,"MacBook Pro (2023 M3 Max, 40-core GPU, 14"")",Mac,,2740.0,,0.0,3
+79,NVIDIA GeForce RTX 2080 SUPER,Desktop/Mobile,699.0,2727.0,3,0.3,3
+80,NVIDIA RTX 4070 (notebook),Desktop/Mobile,,2706.0,,0.6,3
+81,NVIDIA GeForce RTX 3060 Ti,Desktop/Mobile,399.0,2689.0,6,0.3,3
+82,Intel Arc B570,Desktop/Mobile,,2645.0,,0.0,3
+83,NVIDIA GeForce RTX 3060 Ti LHR,Desktop/Mobile,,2634.0,,1.0,3
+84,NVIDIA GeForce RTX 5060 (notebook),Desktop/Mobile,,2631.0,,0.2,3
+85,NVIDIA GeForce RTX 3080 (notebook),Desktop/Mobile,,2629.0,,0.1,3
+86,NVIDIA RTX A4000,Desktop/Mobile,,2617.0,,0.0,3
+87,Intel Arc A750,Desktop/Mobile,289.0,2596.0,8,0.1,3
+88,NVIDIA GeForce RTX 3070 Ti (notebook),Desktop/Mobile,,2566.0,,0.1,3
+89,NVIDIA GeForce RTX 2080,Desktop/Mobile,699.0,2560.0,3,0.3,3
+90,"Mac Studio (2022 M1 Ultra, 48-core GPU)",Mac,,2545.0,,0.0,3
+91,AMD Radeon RX 6750 XT,Desktop/Mobile,549.0,2538.0,4,0.3,3
+92,AMD Radeon RX 6700 XT,Desktop/Mobile,479.0,2425.0,5,0.6,2
+93,NVIDIA Titan Xp,Desktop/Mobile,1199.0,2403.0,2,0.0,2
+94,AMD Radeon RX 6750 GRE 12 GB,Desktop/Mobile,289.0,2394.0,8,0.0,2
+95,NVIDIA GeForce RTX 2070 SUPER,Desktop/Mobile,499.0,2384.0,4,0.6,2
+96,NVIDIA GeForce RTX 3070 (notebook),Desktop/Mobile,,2379.0,,0.3,2
+97,NVIDIA GeForce RTX 2080 SUPER,Desktop/Mobile,,2356.0,,0.0,2
+98,NVIDIA Titan Xp Collector's Edition,Desktop/Mobile,1199.0,2355.0,1,0.0,2
+99,AMD Radeon RX 7600 XT,Desktop/Mobile,329.0,2354.0,7,0.1,2
+100,NVIDIA GeForce RTX 2080,Desktop/Mobile,,2334.0,,0.0,2
+101,NVIDIA GeForce RTX 5050,Desktop/Mobile,,2321.0,,0.1,2
+102,NVIDIA GeForce RTX 4060,Desktop/Mobile,299.0,2313.0,7,1.4,2
+103,AMD Radeon RX 7600,Desktop/Mobile,269.0,2312.0,8,0.3,2
+104,AMD Radeon VII,Desktop/Mobile,699.0,2312.0,3,0.0,2
+105,AMD Radeon RX 7650 GRE,Desktop/Mobile,,2309.0,,0.0,2
+106,"MacBook Pro (2026 M5 Pro, 20-core GPU, 14"")",Mac,,2306.0,,0.0,2
+107,"MacBook Pro (2023 M3 Max, 30-core GPU, 16"")",Mac,,2298.0,,0.0,2
+108,"Mac Studio (2023 M2 Max, 38-core GPU)",Mac,,2290.0,,0.0,2
+109,NVIDIA RTX 4060 (notebook),Desktop/Mobile,,2268.0,,0.8,2
+110,Intel Arc A770M,Desktop/Mobile,,2266.0,,0.0,2
+111,"MacBook Pro (2026 M5 Pro, 20-core GPU, 16"")",Mac,,2264.0,,0.0,2
+112,"MacBook Pro (2023 M2 Max, 38-core GPU, 16"")",Mac,,2233.0,,0.0,2
+113,NVIDIA GeForce GTX 1080 Ti,Desktop/Mobile,699.0,2231.0,3,0.5,2
+114,Intel Arc A580,Desktop/Mobile,,2231.0,,0.0,2
+115,NVIDIA Titan X (Pascal),Desktop/Mobile,1199.0,2227.0,1,0.0,2
+116,NVIDIA RTX 4000 SFF Ada Generation,Desktop/Mobile,,2206.0,,0.0,2
+117,AMD Radeon RX 6800M,Desktop/Mobile,,2199.0,,0.0,2
+118,AMD Radeon RX 7700S,Desktop/Mobile,,2188.0,,0.0,2
+119,"MacBook Pro (2023 M3 Max, 30-core GPU, 14"")",Mac,,2187.0,,0.0,2
+120,AMD Radeon Pro VII,Desktop/Mobile,,2163.0,,0.0,2
+121,NVIDIA GeForce RTX 5050 (notebook),Desktop/Mobile,,2137.0,,0.0,2
+122,AMD Radeon RX 5700 XT,Desktop/Mobile,399.0,2117.0,5,0.5,2
+123,NVIDIA GeForce RTX 2070,Desktop/Mobile,499.0,2093.0,4,0.3,2
+124,AMD Radeon RX 7600M XT,Desktop/Mobile,,2088.0,,0.0,2
+125,AMD Radeon 8060S Graphics,Desktop/Mobile,,2038.0,,0.0,2
+126,NVIDIA GeForce RTX 3060 GA104,Desktop/Mobile,,2003.0,,0.3,2
+127,AMD Radeon RX 6700,Desktop/Mobile,,2003.0,,0.1,2
+128,AMD Radeon RX 6750 GRE 10 GB,Desktop/Mobile,,1993.0,,0.0,2
+129,NVIDIA GeForce RTX 2060 SUPER,Desktop/Mobile,399.0,1984.0,4,0.3,2
+130,NVIDIA GeForce RTX 2070 SUPER,Desktop/Mobile,,1976.0,,0.0,2
+131,NVIDIA GeForce RTX 3060,Desktop/Mobile,359.0,1974.0,5,1.4,2
+132,"MacBook Pro (2026 M5 Pro, 16-core GPU, 14"")",Mac,,1958.0,,0.0,2
+133,AMD Radeon RX 7600S,Desktop/Mobile,,1905.0,,0.0,2
+134,"Mac Studio (2023 M2 Max, 30-core GPU)",Mac,,1876.0,,0.0,2
+135,"MacBook Pro (2024 M4 Pro, 20-core GPU, 14"")",Mac,,1857.0,,0.0,2
+136,AMD Radeon RX 6650 XT,Desktop/Mobile,249.0,1854.0,7,0.2,2
+137,AMD Radeon RX 5700,Desktop/Mobile,349.0,1851.0,5,0.1,2
+138,NVIDIA Quadro RTX 4000,Desktop/Mobile,899.0,1845.0,2,0.0,2
+139,"Mac mini (2024 M4 Pro, 20-core GPU)",Mac,,1843.0,,0.0,2
+140,"MacBook Pro (2024 M4 Pro, 20-core GPU, 16"")",Mac,,1841.0,,0.0,2
+141,NVIDIA GeForce RTX 2080 SUPER,Desktop/Mobile,,1836.0,,0.0,2
+142,"MacBook Pro (2023 M2 Max, 30-core GPU, 16"")",Mac,,1829.0,,0.0,2
+143,NVIDIA GeForce RTX 3060 (notebook),Desktop/Mobile,,1802.0,,0.5,2
+144,"MacBook Pro (2023 M2 Max, 38-core GPU, 14"")",Mac,,1798.0,,0.0,2
+145,AMD Radeon RX 6600 XT,Desktop/Mobile,379.0,1793.0,4,0.2,2
+146,NVIDIA RTX 4050 (notebook),Desktop/Mobile,,1789.0,,0.2,2
+147,NVIDIA GeForce RTX 2060 12 GB,Desktop/Mobile,,1774.0,,0.0,2
+148,NVIDIA GeForce RTX 2070 (Notebook refresh),Desktop/Mobile,,1766.0,,0.0,2
+149,"MacBook Pro (2023 M2 Max, 30-core GPU, 16"")",Mac,,1764.0,,0.0,2
+150,NVIDIA GeForce RTX 2070,Desktop/Mobile,,1748.0,,0.0,2
+151,NVIDIA GeForce RTX 2080,Desktop/Mobile,,1747.0,,0.0,2
+152,"Mac Studio (2022 M1 Max, 32-core GPU)",Mac,,1739.0,,0.0,2
+153,"MacBook Pro (2021 M1 Max, 32-core GPU, 16"")",Mac,,1721.0,,0.0,2
+154,NVIDIA GeForce RTX 2060,Desktop/Mobile,349.0,1704.0,4,0.5,2
+155,NVIDIA GeForce RTX 2070 SUPER,Desktop/Mobile,,1694.0,,0.0,2
+156,AMD Radeon RX Vega 64,Desktop/Mobile,499.0,1677.0,3,0.1,2
+157,AMD Radeon RX 6800S,Desktop/Mobile,,1677.0,,0.0,2
+158,AMD Radeon RX 5600 XT,Desktop/Mobile,279.0,1664.0,5,0.1,2
+159,"MacBook Pro (2023 M2 Max, 30-core GPU, 14"")",Mac,,1648.0,,0.0,2
+160,NVIDIA GeForce GTX 1080,Desktop/Mobile,599.0,1629.0,2,0.4,2
+161,NVIDIA GeForce RTX 3060 8 GB,Desktop/Mobile,329.0,1584.0,4,0.0,2
+162,"MacBook Pro (2024 M4 Pro, 16-core GPU, 14"")",Mac,,1582.0,,0.0,2
+163,"Mac mini (2024 M4 Pro, 16-core GPU)",Mac,,1575.0,,0.0,2
+164,NVIDIA GeForce GTX 1080,Desktop/Mobile,,1561.0,,0.0,2
+165,NVIDIA GeForce RTX 2070  (refresh),Desktop/Mobile,,1543.0,,0.0,2
+166,NVIDIA GeForce RTX 2070,Desktop/Mobile,,1531.0,,0.0,2
+167,AMD Radeon RX Vega 56,Desktop/Mobile,399.0,1506.0,3,0.0,2
+168,AMD Radeon RX 5600,Desktop/Mobile,,1492.0,,0.0,2
+169,AMD Radeon RX 6600,Desktop/Mobile,330.0,1487.0,4,0.4,2
+170,AMD Radeon RX 6600M,Desktop/Mobile,,1483.0,,0.0,2
+171,"MacBook Pro (2021 M1 Max, 32-core GPU, 14"")",Mac,,1469.0,,0.0,2
+172,NVIDIA GeForce GTX 1070 Ti,Desktop/Mobile,399.0,1467.0,3,0.1,2
+173,AMD Radeon RX 6700S,Desktop/Mobile,,1421.0,,0.0,2
+174,AMD Radeon RX 6600 LE,Desktop/Mobile,,1408.0,,0.0,2
+175,"MacBook Pro (2021 M1 Max, 24-core GPU, 16"")",Mac,,1394.0,,0.0,2
+176,"Mac Studio (2022 M1 Max, 24-core GPU)",Mac,,1376.0,,0.0,2
+177,NVIDIA GeForce RTX 2060 (Notebook refresh),Desktop/Mobile,,1375.0,,0.1,2
+178,NVIDIA GeForce RTX 2060,Desktop/Mobile,,1366.0,,0.0,2
+179,NVIDIA RTX A2000,Desktop/Mobile,,1355.0,,0.0,2
+180,NVIDIA GeForce GTX 1070,Desktop/Mobile,379.0,1340.0,3,0.4,2
+181,"MacBook Pro (2023 M3 Pro, 18-core GPU, 16"")",Mac,,1339.0,,0.0,2
+182,NVIDIA GeForce RTX 3050,Desktop/Mobile,249.0,1337.0,5,0.2,2
+183,"MacBook Pro (2023 M3 Pro, 18-core GPU, 14"")",Mac,,1331.0,,0.0,2
+184,NVIDIA RTX A2000 12 GB,Desktop/Mobile,,1326.0,,0.0,2
+185,NVIDIA GeForce GTX 980 Ti,Desktop/Mobile,649.0,1319.0,2,0.1,2
+186,NVIDIA GeForce GTX 1660 Ti,Desktop/Mobile,279.0,1305.0,4,0.2,2
+187,"MacBook Pro (2021 M1 Max, 24-core GPU, 14"")",Mac,,1287.0,,0.0,2
+188,NVIDIA Quadro RTX 3000 Mobile,Desktop/Mobile,,1280.0,,0.0,2
+189,NVIDIA GeForce GTX 1660 SUPER,Desktop/Mobile,229.0,1248.0,5,0.4,2
+190,NVIDIA GTX TITAN X,Desktop/Mobile,999.0,1238.0,1,0.0,2
+191,NVIDIA GeForce GTX 1070,Desktop/Mobile,,1237.0,,0.0,2
+192,NVIDIA GeForce RTX 2060,Desktop/Mobile,,1216.0,,0.0,2
+193,"Mac mini (2023 M2 Pro, 19-core GPU)",Mac,,1178.0,,0.0,2
+194,NVIDIA GeForce GTX 1660 Ti,Desktop/Mobile,,1177.0,,0.1,2
+195,"MacBook Pro (2023 M2 Pro, 19-core GPU, 16"")",Mac,,1165.0,,0.0,2
+196,"MacBook Pro (2023 M2 Pro, 19-core GPU, 14"")",Mac,,1152.0,,0.0,2
+197,"MacBook Pro (2023 M3 Pro, 14-core GPU, 14"")",Mac,,1123.0,,0.0,2
+198,"MacBook Pro (2025 M5, 10-core GPU, 14"")",Mac,,1113.0,,0.0,2
+199,NVIDIA GeForce RTX 3050 6 GB (notebook),Desktop/Mobile,,1096.0,,0.1,2
+200,AMD Radeon RX 590,Desktop/Mobile,279.0,1081.0,3,0.0,2
+201,"MacBook Air (2026 M5, 10-core GPU, 13"")",Mac,,1055.0,,0.0,2
+202,NVIDIA GeForce GTX 1070,Desktop/Mobile,,1054.0,,0.0,2
+203,NVIDIA GeForce GTX 1660,Desktop/Mobile,219.0,1047.0,4,0.1,2
+204,"MacBook Air (2026 M5, 10-core GPU, 15"")",Mac,,1047.0,,0.0,2
+205,NVIDIA GeForce GTX 1660 Ti,Desktop/Mobile,,1036.0,,0.0,2
+206,AMD Radeon RX 5500 XT,Desktop/Mobile,169.0,1023.0,6,0.0,2
+207,"Mac mini (2023 M2 Pro, 16-core GPU)",Mac,,1011.0,,0.0,2
+208,AMD Radeon RX 580,Desktop/Mobile,229.0,1005.0,4,0.2,2
+209,NVIDIA GeForce RTX 3050 6 GB,Desktop/Mobile,,1003.0,,0.2,2
+210,AMD Radeon RX 590 GME,Desktop/Mobile,,996.0,,0.0,1
+211,"MacBook Pro (2023 M2 Pro, 16-core GPU, 14"")",Mac,,980.0,,0.0,1
+212,AMD Radeon RX 480,Desktop/Mobile,229.0,959.0,4,0.0,1
+213,AMD Radeon R9 390,Desktop/Mobile,329.0,951.0,2,0.0,1
+214,NVIDIA GeForce GTX 1060-6GB,Desktop/Mobile,299.0,906.0,3,0.4,1
+215,"MacBook Pro (2021 M1 Pro, 16-core GPU, 16"")",Mac,,900.0,,0.0,1
+216,NVIDIA P106-100,Desktop/Mobile,,898.0,,0.0,1
+217,"Mac mini (2024 M4, 10-core GPU)",Mac,,895.0,,0.0,1
+218,"MacBook Pro (2021 M1 Pro, 16-core GPU, 14"")",Mac,,893.0,,0.0,1
+219,AMD Radeon RX 570,Desktop/Mobile,169.0,885.0,5,0.1,1
+220,"MacBook Air (2026 M5, 8-core GPU, 13"")",Mac,,877.0,,0.0,1
+221,"MacBook Pro (2024 M4, 10-core GPU, 14"")",Mac,,876.0,,0.0,1
+222,AMD Radeon RX 470,Desktop/Mobile,179.0,849.0,4,0.0,1
+223,AMD Radeon RX 580 2048SP,Desktop/Mobile,,839.0,,0.1,1
+224,"iMac (2024 M4, 10-core GPU, 24"")",Mac,,828.0,,0.0,1
+225,"MacBook Air (2025 M4, 10-core GPU, 15"")",Mac,,819.0,,0.0,1
+226,"MacBook Pro (2021 M1 Pro, 14-core GPU, 14"")",Mac,,811.0,,0.0,1
+227,"MacBook Air (2025 M4, 10-core GPU, 13"")",Mac,,809.0,,0.0,1
+228,Intel Arc 140T GPU,Desktop/Mobile,,805.0,,0.0,1
+229,NVIDIA GeForce GTX 1060,Desktop/Mobile,,803.0,,0.0,1
+230,Intel Arc A380,Desktop/Mobile,,789.0,,0.0,1
+231,Intel Arc Graphics (Lunar Lake),Desktop/Mobile,,780.0,,0.0,1
+232,"MacBook Air (2025 M4, 8-core GPU, 13"")",Mac,,730.0,,0.0,1
+233,"iMac (2024 M4, 8-core GPU, 24"")",Mac,,729.0,,0.0,1
+234,"MacBook Pro (2023 M3, 10-core GPU, 14"")",Mac,,722.0,,0.0,1
+235,"MacBook Air (2024 M3, 10-core GPU, 15"")",Mac,,717.0,,0.0,1
+236,"iMac (2023 M3, 10-core GPU, 24"")",Mac,,706.0,,0.0,1
+237,"MacBook Air (2024 M3, 10-core GPU, 13"")",Mac,,689.0,,0.0,1
+238,Intel Arc Graphics,Desktop/Mobile,,656.0,,0.0,1
+239,NVIDIA GeForce GTX 980M,Desktop/Mobile,,647.0,,0.0,1
+240,"MacBook Air (2024 M3, 8-core GPU, 15"")",Mac,,604.0,,0.0,1
+241,"Mac mini (2023 M2, 10-core GPU)",Mac,,585.0,,0.0,1
+242,"MacBook Pro (2022 M2, 10-core GPU, 13"")",Mac,,585.0,,0.0,1
+243,"MacBook Air (2023 M2, 10-core GPU, 15"")",Mac,,569.0,,0.0,1
+244,AMD Radeon 890M,Desktop/Mobile,,555.0,,0.0,1
+245,NVIDIA GeForce GTX 980,Desktop/Mobile,549.0,504.0,,0.0,1
+246,Qualcomm Adreno X1-85,Desktop/Mobile,,499.0,,0.0,1
+247,AMD Radeon 780M (desktop),Desktop/Mobile,,497.0,,0.0,1
+248,"MacBook Air (2022 M2, 8-core GPU, 13"")",Mac,,492.0,,0.0,1
+249,AMD Radeon 780M,Desktop/Mobile,,478.0,,0.0,1
+250,AMD ROG Ally Extreme GPU,Desktop/Mobile,,477.0,,0.0,1
+251,NVIDIA GeForce RTX 3050 Ti (notebook),Desktop/Mobile,,467.0,,0.0,1
+252,"MacBook Air (2022 M2, 10-core GPU, 13"")",Mac,,439.0,,0.0,1
+253,Intel Graphics (Ultra 200 Series),Desktop/Mobile,,429.0,,0.0,1
+254,"iMac (2021 M1, 8-core GPU, 24"")",Mac,,420.0,,0.0,1
+255,NVIDIA GeForce RTX 3050 (notebook),Desktop/Mobile,,419.0,,0.0,1
+256,"Mac mini (2020 M1, 8-core GPU)",Mac,,416.0,,0.0,1
+257,"MacBook Pro (2020 M1, 8-core GPU, 13"")",Mac,,406.0,,0.0,1
+258,"MacBook Air (2020 M1, 8-core GPU, 13"")",Mac,,406.0,,0.0,1
+259,NVIDIA GeForce RTX 2050 (notebook),Desktop/Mobile,,394.0,,0.0,1
+260,"MacBook Neo (2026 A18 Pro, 5-core GPU)",Mac,,372.0,,0.0,1
+261,"MacBook Air (2020 M1, 7-core GPU, 13"")",Mac,,371.0,,0.0,1
+262,AMD Radeon 680M,Desktop/Mobile,,361.0,,0.0,1
+263,NVIDIA GeForce GTX 1650 SUPER,Desktop/Mobile,160.0,334.0,2,0.0,1
+264,NVIDIA GeForce GTX 970,Desktop/Mobile,329.0,328.0,,0.0,1
+265,NVIDIA GeForce GTX 1650,Desktop/Mobile,149.0,323.0,2,0.0,1
+266,AMD Radeon RX 6500 XT,Desktop/Mobile,200.0,317.0,1,0.0,1
+267,NVIDIA GeForce GTX 1050 Ti,Desktop/Mobile,,311.0,,0.0,1
+268,NVIDIA GeForce GTX 1050 Ti,Desktop/Mobile,139.0,301.0,2,0.0,1
+269,NVIDIA GeForce GTX 1650 Ti,Desktop/Mobile,,255.0,,0.0,1
+270,NVIDIA GeForce GTX 1650,Desktop/Mobile,,253.0,,0.0,1
+271,AMD Radeon Vega 7 (Cezanne),Desktop/Mobile,,233.0,,0.0,1
+272,AMD Radeon Vega 8 (Cezanne),Desktop/Mobile,,226.0,,0.0,1
+273,Intel Iris Xe Graphics,Desktop/Mobile,,168.0,,0.0,1
+274,NVIDIA GeForce GTX 960,Desktop/Mobile,199.0,157.0,,0.0,1
+275,NVIDIA GeForce GTX 1060-3GB,Desktop/Mobile,199.0,155.0,,0.0,1
+276,Intel Iris Xe Graphics G7 96EU,Desktop/Mobile,,139.0,,0.0,1
+277,AMD Radeon Graphics (Granite Ridge),Desktop/Mobile,,126.0,,0.0,1
+278,AMD Radeon Graphics (Raphael),Desktop/Mobile,,121.0,,0.0,1
+279,NVIDIA GeForce GTX 1050,Desktop/Mobile,109.0,109.0,1,0.0,1
