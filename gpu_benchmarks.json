@@ -1,6 +1,6 @@
 {
   "source": "https://benchmarks.ul.com/zh-hans/compare/best-gpus",
-  "fetched_at": "2026-07-30 04:57:05 UTC",
+  "fetched_at": "2026-07-31 05:33:52 UTC",
   "total_gpus": 279,
   "gpus": [
     {
@@ -18,9 +18,9 @@
       "name": "NVIDIA GeForce RTX 5090",
       "type": "Desktop/Mobile",
       "price_usd": 1999.0,
-      "score": 14544.0,
+      "score": 14636.0,
       "value_for_money": 7,
-      "popularity": 8.7,
+      "popularity": 7.6,
       "stars": 5
     },
     {
@@ -28,9 +28,9 @@
       "name": "NVIDIA GeForce RTX 5090 D",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 14475.0,
+      "score": 14602.0,
       "value_for_money": null,
-      "popularity": 0.3,
+      "popularity": 0.2,
       "stars": 5
     },
     {
@@ -38,9 +38,9 @@
       "name": "NVIDIA RTX 5090 D v2",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 14301.0,
+      "score": 14348.0,
       "value_for_money": null,
-      "popularity": 0.1,
+      "popularity": 0.2,
       "stars": 5
     },
     {
@@ -48,9 +48,9 @@
       "name": "NVIDIA GeForce RTX 4090",
       "type": "Desktop/Mobile",
       "price_usd": 1599.0,
-      "score": 9237.0,
+      "score": 9225.0,
       "value_for_money": 5,
-      "popularity": 2.4,
+      "popularity": 2.0,
       "stars": 5
     },
     {
@@ -58,9 +58,9 @@
       "name": "NVIDIA GeForce RTX 5080",
       "type": "Desktop/Mobile",
       "price_usd": 999.0,
-      "score": 8858.0,
+      "score": 8938.0,
       "value_for_money": 8,
-      "popularity": 11.2,
+      "popularity": 12.3,
       "stars": 5
     },
     {
@@ -68,7 +68,7 @@
       "name": "NVIDIA GeForce RTX 4090 D",
       "type": "Desktop/Mobile",
       "price_usd": 1599.0,
-      "score": 8615.0,
+      "score": 8607.0,
       "value_for_money": 5,
       "popularity": 0.0,
       "stars": 5
@@ -78,9 +78,9 @@
       "name": "AMD Radeon RX 9070 XT",
       "type": "Desktop/Mobile",
       "price_usd": 599.0,
-      "score": 7238.0,
+      "score": 7273.0,
       "value_for_money": 12,
-      "popularity": 15.8,
+      "popularity": 15.0,
       "stars": 4
     },
     {
@@ -88,7 +88,7 @@
       "name": "AMD Radeon AI PRO R9700",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 7014.0,
+      "score": 7008.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 4
@@ -98,9 +98,9 @@
       "name": "NVIDIA GeForce RTX 5070 Ti",
       "type": "Desktop/Mobile",
       "price_usd": 749.0,
-      "score": 6905.0,
+      "score": 6967.0,
       "value_for_money": 9,
-      "popularity": 8.7,
+      "popularity": 9.2,
       "stars": 4
     },
     {
@@ -108,9 +108,9 @@
       "name": "AMD Radeon RX 7900 XTX",
       "type": "Desktop/Mobile",
       "price_usd": 999.0,
-      "score": 6862.0,
+      "score": 6866.0,
       "value_for_money": 6,
-      "popularity": 1.9,
+      "popularity": 1.6,
       "stars": 4
     },
     {
@@ -118,9 +118,9 @@
       "name": "NVIDIA GeForce RTX 4080 SUPER",
       "type": "Desktop/Mobile",
       "price_usd": 999.0,
-      "score": 6624.0,
+      "score": 6621.0,
       "value_for_money": 6,
-      "popularity": 1.4,
+      "popularity": 1.2,
       "stars": 4
     },
     {
@@ -128,9 +128,9 @@
       "name": "NVIDIA GeForce RTX 4080",
       "type": "Desktop/Mobile",
       "price_usd": 1199.0,
-      "score": 6595.0,
+      "score": 6585.0,
       "value_for_money": 5,
-      "popularity": 1.1,
+      "popularity": 1.0,
       "stars": 4
     },
     {
@@ -138,9 +138,9 @@
       "name": "AMD Radeon RX 9070",
       "type": "Desktop/Mobile",
       "price_usd": 549.0,
-      "score": 6276.0,
+      "score": 6312.0,
       "value_for_money": 11,
-      "popularity": 1.7,
+      "popularity": 1.5,
       "stars": 4
     },
     {
@@ -148,9 +148,9 @@
       "name": "NVIDIA GeForce RTX 5090 (notebook)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 6181.0,
+      "score": 6223.0,
       "value_for_money": null,
-      "popularity": 0.2,
+      "popularity": 0.3,
       "stars": 4
     },
     {
@@ -158,7 +158,7 @@
       "name": "NVIDIA GeForce RTX 3090 Ti",
       "type": "Desktop/Mobile",
       "price_usd": 2000.0,
-      "score": 5755.0,
+      "score": 5763.0,
       "value_for_money": 2,
       "popularity": 0.2,
       "stars": 4
@@ -168,9 +168,9 @@
       "name": "AMD Radeon RX 7900 XT",
       "type": "Desktop/Mobile",
       "price_usd": 899.0,
-      "score": 5622.0,
+      "score": 5635.0,
       "value_for_money": 6,
-      "popularity": 0.9,
+      "popularity": 0.8,
       "stars": 4
     },
     {
@@ -178,9 +178,9 @@
       "name": "NVIDIA GeForce RTX 4070 Ti SUPER",
       "type": "Desktop/Mobile",
       "price_usd": 799.0,
-      "score": 5594.0,
-      "value_for_money": 7,
-      "popularity": 1.1,
+      "score": 5588.0,
+      "value_for_money": 6,
+      "popularity": 1.0,
       "stars": 4
     },
     {
@@ -198,9 +198,9 @@
       "name": "NVIDIA GeForce RTX 5070",
       "type": "Desktop/Mobile",
       "price_usd": 549.0,
-      "score": 5300.0,
+      "score": 5340.0,
       "value_for_money": 9,
-      "popularity": 3.4,
+      "popularity": 4.3,
       "stars": 3
     },
     {
@@ -208,7 +208,7 @@
       "name": "AMD Radeon RX 9070 GRE",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 5174.0,
+      "score": 5239.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 3
@@ -218,9 +218,9 @@
       "name": "NVIDIA GeForce RTX 5080 (notebook)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 5173.0,
+      "score": 5236.0,
       "value_for_money": null,
-      "popularity": 0.4,
+      "popularity": 0.5,
       "stars": 3
     },
     {
@@ -228,9 +228,9 @@
       "name": "NVIDIA GeForce RTX 3090",
       "type": "Desktop/Mobile",
       "price_usd": 1499.0,
-      "score": 5117.0,
+      "score": 5112.0,
       "value_for_money": 3,
-      "popularity": 1.0,
+      "popularity": 0.9,
       "stars": 3
     },
     {
@@ -238,7 +238,7 @@
       "name": "NVIDIA GeForce RTX 3080 Ti",
       "type": "Desktop/Mobile",
       "price_usd": 1199.0,
-      "score": 5094.0,
+      "score": 5092.0,
       "value_for_money": 4,
       "popularity": 1.2,
       "stars": 3
@@ -248,53 +248,63 @@
       "name": "NVIDIA GeForce RTX 4070 Ti",
       "type": "Desktop/Mobile",
       "price_usd": 799.0,
-      "score": 5041.0,
+      "score": 5040.0,
       "value_for_money": 6,
-      "popularity": 1.1,
+      "popularity": 1.0,
       "stars": 3
     },
     {
       "rank": 26,
-      "name": "NVIDIA RTX 4090 (notebook)",
+      "name": "NVIDIA Quadro RTX A6000",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 4871.0,
+      "score": 4869.0,
       "value_for_money": null,
-      "popularity": 0.3,
+      "popularity": 0.0,
       "stars": 3
     },
     {
       "rank": 27,
-      "name": "AMD Radeon RX 7900 GRE",
+      "name": "NVIDIA RTX 4090 (notebook)",
       "type": "Desktop/Mobile",
-      "price_usd": 550.0,
-      "score": 4802.0,
-      "value_for_money": 8,
-      "popularity": 0.3,
+      "price_usd": null,
+      "score": 4843.0,
+      "value_for_money": null,
+      "popularity": 0.2,
       "stars": 3
     },
     {
       "rank": 28,
+      "name": "AMD Radeon RX 7900 GRE",
+      "type": "Desktop/Mobile",
+      "price_usd": 550.0,
+      "score": 4805.0,
+      "value_for_money": 8,
+      "popularity": 0.2,
+      "stars": 3
+    },
+    {
+      "rank": 29,
       "name": "NVIDIA GeForce RTX 3080 12 GB",
       "type": "Desktop/Mobile",
       "price_usd": 799.0,
-      "score": 4796.0,
+      "score": 4797.0,
       "value_for_money": 6,
       "popularity": 0.3,
       "stars": 3
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "NVIDIA GeForce RTX 4070 SUPER",
       "type": "Desktop/Mobile",
       "price_usd": 599.0,
       "score": 4650.0,
       "value_for_money": 7,
-      "popularity": 1.6,
+      "popularity": 1.4,
       "stars": 3
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Mac Studio (2025 M3 Ultra, 60-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -304,37 +314,37 @@
       "stars": 3
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "NVIDIA GeForce RTX 3080",
       "type": "Desktop/Mobile",
       "price_usd": 699.0,
-      "score": 4443.0,
+      "score": 4442.0,
       "value_for_money": 6,
-      "popularity": 1.3,
+      "popularity": 1.2,
       "stars": 3
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "NVIDIA GeForce RTX 3080 LHR",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 4432.0,
+      "score": 4430.0,
       "value_for_money": null,
       "popularity": 1.0,
       "stars": 3
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "AMD Radeon RX 6950 XT",
       "type": "Desktop/Mobile",
       "price_usd": 1299.0,
-      "score": 4215.0,
+      "score": 4217.0,
       "value_for_money": 3,
       "popularity": 0.3,
       "stars": 3
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "MacBook Pro (2026 M5 Max, 40-core GPU, 16\")",
       "type": "Mac",
       "price_usd": null,
@@ -344,27 +354,27 @@
       "stars": 3
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "NVIDIA RTX 4080 (notebook)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 4185.0,
+      "score": 4178.0,
       "value_for_money": null,
       "popularity": 0.3,
       "stars": 3
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "AMD Radeon RX 7800 XT",
       "type": "Desktop/Mobile",
       "price_usd": 499.0,
-      "score": 4153.0,
+      "score": 4152.0,
       "value_for_money": 8,
-      "popularity": 1.4,
+      "popularity": 1.1,
       "stars": 3
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Mac Studio (2023 M2 Ultra, 76-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -374,23 +384,13 @@
       "stars": 3
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "AMD Radeon RX 6900 XT",
       "type": "Desktop/Mobile",
       "price_usd": 999.0,
-      "score": 4065.0,
+      "score": 4055.0,
       "value_for_money": 4,
-      "popularity": 0.6,
-      "stars": 3
-    },
-    {
-      "rank": 39,
-      "name": "NVIDIA GeForce RTX 4070",
-      "type": "Desktop/Mobile",
-      "price_usd": 600.0,
-      "score": 3853.0,
-      "value_for_money": 6,
-      "popularity": 1.3,
+      "popularity": 0.5,
       "stars": 3
     },
     {
@@ -398,43 +398,53 @@
       "name": "NVIDIA GeForce RTX 5070 Ti (notebook)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 3845.0,
+      "score": 3847.0,
       "value_for_money": null,
-      "popularity": 0.4,
+      "popularity": 0.7,
       "stars": 3
     },
     {
       "rank": 41,
-      "name": "AMD Radeon RX 9060 XT 16 GB",
+      "name": "NVIDIA GeForce RTX 4070",
       "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 3798.0,
-      "value_for_money": null,
+      "price_usd": 600.0,
+      "score": 3845.0,
+      "value_for_money": 6,
       "popularity": 1.2,
       "stars": 3
     },
     {
       "rank": 42,
-      "name": "NVIDIA RTX A5000",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 3790.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 3
-    },
-    {
-      "rank": 43,
       "name": "NVIDIA Titan RTX",
       "type": "Desktop/Mobile",
       "price_usd": 2499.0,
-      "score": 3778.0,
+      "score": 3829.0,
       "value_for_money": 1,
       "popularity": 0.0,
       "stars": 3
     },
     {
+      "rank": 43,
+      "name": "AMD Radeon RX 9060 XT 16 GB",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 3820.0,
+      "value_for_money": null,
+      "popularity": 1.8,
+      "stars": 3
+    },
+    {
       "rank": 44,
+      "name": "NVIDIA RTX A5000",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 3796.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 3
+    },
+    {
+      "rank": 45,
       "name": "MacBook Pro (2026 M5 Max, 40-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -444,27 +454,27 @@
       "stars": 3
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "AMD Radeon RX 9060 XT",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 3721.0,
+      "score": 3743.0,
       "value_for_money": null,
-      "popularity": 0.2,
-      "stars": 3
-    },
-    {
-      "rank": 46,
-      "name": "AMD Radeon RX 6800 XT",
-      "type": "Desktop/Mobile",
-      "price_usd": 649.0,
-      "score": 3672.0,
-      "value_for_money": 5,
-      "popularity": 0.6,
+      "popularity": 0.3,
       "stars": 3
     },
     {
       "rank": 47,
+      "name": "AMD Radeon RX 6800 XT",
+      "type": "Desktop/Mobile",
+      "price_usd": 649.0,
+      "score": 3669.0,
+      "value_for_money": 5,
+      "popularity": 0.5,
+      "stars": 3
+    },
+    {
+      "rank": 48,
       "name": "Mac Studio (2025 M4 Max, 40-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -474,27 +484,27 @@
       "stars": 3
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "NVIDIA GeForce RTX 5060 Ti 16 GB",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 3598.0,
+      "score": 3622.0,
       "value_for_money": null,
-      "popularity": 1.3,
-      "stars": 3
-    },
-    {
-      "rank": 49,
-      "name": "NVIDIA GeForce RTX 5060 Ti",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 3546.0,
-      "value_for_money": null,
-      "popularity": 0.3,
+      "popularity": 1.8,
       "stars": 3
     },
     {
       "rank": 50,
+      "name": "NVIDIA GeForce RTX 5060 Ti",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 3592.0,
+      "value_for_money": null,
+      "popularity": 0.4,
+      "stars": 3
+    },
+    {
+      "rank": 51,
       "name": "MacBook Pro (2024 M4 Max, 40-core GPU, 16\")",
       "type": "Mac",
       "price_usd": null,
@@ -504,27 +514,27 @@
       "stars": 3
     },
     {
-      "rank": 51,
+      "rank": 52,
       "name": "NVIDIA Titan V",
       "type": "Desktop/Mobile",
       "price_usd": 2999.0,
-      "score": 3513.0,
+      "score": 3525.0,
       "value_for_money": 1,
       "popularity": 0.0,
       "stars": 3
     },
     {
-      "rank": 52,
-      "name": "NVIDIA GeForce RTX 2080 Ti",
+      "rank": 53,
+      "name": "NVIDIA GeForce RTX 3070 Ti",
       "type": "Desktop/Mobile",
-      "price_usd": 999.0,
-      "score": 3502.0,
-      "value_for_money": 3,
-      "popularity": 0.5,
+      "price_usd": 599.0,
+      "score": 3501.0,
+      "value_for_money": 5,
+      "popularity": 0.9,
       "stars": 3
     },
     {
-      "rank": 53,
+      "rank": 54,
       "name": "Mac Studio (2023 M2 Ultra, 60-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -534,17 +544,17 @@
       "stars": 3
     },
     {
-      "rank": 54,
-      "name": "NVIDIA GeForce RTX 3070 Ti",
+      "rank": 55,
+      "name": "NVIDIA GeForce RTX 2080 Ti",
       "type": "Desktop/Mobile",
-      "price_usd": 599.0,
-      "score": 3499.0,
-      "value_for_money": 5,
-      "popularity": 1.0,
+      "price_usd": 999.0,
+      "score": 3497.0,
+      "value_for_money": 3,
+      "popularity": 0.5,
       "stars": 3
     },
     {
-      "rank": 55,
+      "rank": 56,
       "name": "MacBook Pro (2026 M5 Max, 32-core GPU, 16\")",
       "type": "Mac",
       "price_usd": null,
@@ -554,33 +564,23 @@
       "stars": 3
     },
     {
-      "rank": 56,
+      "rank": 57,
       "name": "AMD Radeon RX 7700 XT",
       "type": "Desktop/Mobile",
       "price_usd": 449.0,
-      "score": 3320.0,
+      "score": 3322.0,
       "value_for_money": 7,
-      "popularity": 0.4,
-      "stars": 3
-    },
-    {
-      "rank": 57,
-      "name": "AMD Radeon RX 9060",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 3292.0,
-      "value_for_money": null,
-      "popularity": 0.0,
+      "popularity": 0.3,
       "stars": 3
     },
     {
       "rank": 58,
-      "name": "AMD Radeon RX 6800",
+      "name": "AMD Radeon RX 9060",
       "type": "Desktop/Mobile",
-      "price_usd": 579.0,
-      "score": 3189.0,
-      "value_for_money": 5,
-      "popularity": 0.4,
+      "price_usd": null,
+      "score": 3294.0,
+      "value_for_money": null,
+      "popularity": 0.0,
       "stars": 3
     },
     {
@@ -588,7 +588,7 @@
       "name": "NVIDIA RTX A4500",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 3186.0,
+      "score": 3207.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 3
@@ -598,13 +598,33 @@
       "name": "NVIDIA GeForce RTX 3070",
       "type": "Desktop/Mobile",
       "price_usd": 499.0,
-      "score": 3180.0,
+      "score": 3182.0,
       "value_for_money": 6,
-      "popularity": 1.4,
+      "popularity": 1.3,
       "stars": 3
     },
     {
       "rank": 61,
+      "name": "AMD Radeon RX 6800",
+      "type": "Desktop/Mobile",
+      "price_usd": 579.0,
+      "score": 3181.0,
+      "value_for_money": 5,
+      "popularity": 0.3,
+      "stars": 3
+    },
+    {
+      "rank": 62,
+      "name": "NVIDIA GeForce RTX 5060",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 3178.0,
+      "value_for_money": null,
+      "popularity": 1.5,
+      "stars": 3
+    },
+    {
+      "rank": 63,
       "name": "MacBook Pro (2024 M4 Max, 40-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -614,27 +634,17 @@
       "stars": 3
     },
     {
-      "rank": 62,
+      "rank": 64,
       "name": "NVIDIA GeForce RTX 3070 LHR",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 3174.0,
+      "score": 3173.0,
       "value_for_money": null,
       "popularity": 0.7,
       "stars": 3
     },
     {
-      "rank": 63,
-      "name": "NVIDIA GeForce RTX 5060",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 3170.0,
-      "value_for_money": null,
-      "popularity": 0.9,
-      "stars": 3
-    },
-    {
-      "rank": 64,
+      "rank": 65,
       "name": "Mac Studio (2022 M1 Ultra, 64-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -644,7 +654,7 @@
       "stars": 3
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "MacBook Pro (2026 M5 Max, 32-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -654,7 +664,7 @@
       "stars": 3
     },
     {
-      "rank": 66,
+      "rank": 67,
       "name": "Intel Arc B580",
       "type": "Desktop/Mobile",
       "price_usd": null,
@@ -664,23 +674,13 @@
       "stars": 3
     },
     {
-      "rank": 67,
-      "name": "AMD Radeon RX 7800M",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 3010.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 3
-    },
-    {
       "rank": 68,
       "name": "NVIDIA GeForce RTX 5070 (notebook)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 2979.0,
+      "score": 3012.0,
       "value_for_money": null,
-      "popularity": 0.2,
+      "popularity": 0.4,
       "stars": 3
     },
     {
@@ -688,13 +688,23 @@
       "name": "Intel Arc A770",
       "type": "Desktop/Mobile",
       "price_usd": 329.0,
-      "score": 2965.0,
+      "score": 2972.0,
       "value_for_money": 9,
       "popularity": 0.1,
       "stars": 3
     },
     {
       "rank": 70,
+      "name": "AMD Radeon RX 7800M",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 2950.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 3
+    },
+    {
+      "rank": 71,
       "name": "MacBook Pro (2023 M3 Max, 40-core GPU, 16\")",
       "type": "Mac",
       "price_usd": null,
@@ -704,37 +714,37 @@
       "stars": 3
     },
     {
-      "rank": 71,
+      "rank": 72,
       "name": "NVIDIA GeForce RTX 3080 Ti (notebook)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 2919.0,
-      "value_for_money": null,
-      "popularity": 0.1,
-      "stars": 3
-    },
-    {
-      "rank": 72,
-      "name": "NVIDIA GeForce RTX 4060 Ti 8 GB",
-      "type": "Desktop/Mobile",
-      "price_usd": 399.0,
       "score": 2914.0,
-      "value_for_money": 7,
-      "popularity": 0.8,
+      "value_for_money": null,
+      "popularity": 0.0,
       "stars": 3
     },
     {
       "rank": 73,
-      "name": "NVIDIA GeForce RTX 4060 Ti 16 GB",
+      "name": "NVIDIA GeForce RTX 4060 Ti 8 GB",
       "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 2911.0,
-      "value_for_money": null,
-      "popularity": 0.3,
+      "price_usd": 399.0,
+      "score": 2907.0,
+      "value_for_money": 7,
+      "popularity": 0.7,
       "stars": 3
     },
     {
       "rank": 74,
+      "name": "NVIDIA GeForce RTX 4060 Ti 16 GB",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 2905.0,
+      "value_for_money": null,
+      "popularity": 0.2,
+      "stars": 3
+    },
+    {
+      "rank": 75,
       "name": "MacBook Pro (2024 M4 Max, 32-core GPU, 16\")",
       "type": "Mac",
       "price_usd": null,
@@ -744,7 +754,7 @@
       "stars": 3
     },
     {
-      "rank": 75,
+      "rank": 76,
       "name": "Mac Studio (2025 M4 Max, 32-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -754,17 +764,27 @@
       "stars": 3
     },
     {
-      "rank": 76,
+      "rank": 77,
+      "name": "AMD Radeon RX 7700",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 2857.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 3
+    },
+    {
+      "rank": 78,
       "name": "NVIDIA GeForce RTX 3060 Ti GDDR6X",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 2807.0,
+      "score": 2806.0,
       "value_for_money": null,
       "popularity": 0.1,
       "stars": 3
     },
     {
-      "rank": 77,
+      "rank": 79,
       "name": "MacBook Pro (2024 M4 Max, 32-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -774,7 +794,7 @@
       "stars": 3
     },
     {
-      "rank": 78,
+      "rank": 80,
       "name": "MacBook Pro (2023 M3 Max, 40-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -784,7 +804,7 @@
       "stars": 3
     },
     {
-      "rank": 79,
+      "rank": 81,
       "name": "NVIDIA GeForce RTX 2080 SUPER",
       "type": "Desktop/Mobile",
       "price_usd": 699.0,
@@ -794,87 +814,87 @@
       "stars": 3
     },
     {
-      "rank": 80,
+      "rank": 82,
       "name": "NVIDIA RTX 4070 (notebook)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 2706.0,
+      "score": 2702.0,
       "value_for_money": null,
-      "popularity": 0.6,
+      "popularity": 0.5,
       "stars": 3
     },
     {
-      "rank": 81,
+      "rank": 83,
       "name": "NVIDIA GeForce RTX 3060 Ti",
       "type": "Desktop/Mobile",
       "price_usd": 399.0,
-      "score": 2689.0,
+      "score": 2691.0,
       "value_for_money": 6,
       "popularity": 0.3,
       "stars": 3
     },
     {
-      "rank": 82,
+      "rank": 84,
       "name": "Intel Arc B570",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 2645.0,
+      "score": 2647.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 3
     },
     {
-      "rank": 83,
+      "rank": 85,
+      "name": "NVIDIA GeForce RTX 5060 (notebook)",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 2639.0,
+      "value_for_money": null,
+      "popularity": 0.5,
+      "stars": 3
+    },
+    {
+      "rank": 86,
       "name": "NVIDIA GeForce RTX 3060 Ti LHR",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 2634.0,
+      "score": 2638.0,
       "value_for_money": null,
       "popularity": 1.0,
       "stars": 3
     },
     {
-      "rank": 84,
-      "name": "NVIDIA GeForce RTX 5060 (notebook)",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 2631.0,
-      "value_for_money": null,
-      "popularity": 0.2,
-      "stars": 3
-    },
-    {
-      "rank": 85,
+      "rank": 87,
       "name": "NVIDIA GeForce RTX 3080 (notebook)",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 2629.0,
-      "value_for_money": null,
-      "popularity": 0.1,
-      "stars": 3
-    },
-    {
-      "rank": 86,
-      "name": "NVIDIA RTX A4000",
       "type": "Desktop/Mobile",
       "price_usd": null,
       "score": 2617.0,
       "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 3
-    },
-    {
-      "rank": 87,
-      "name": "Intel Arc A750",
-      "type": "Desktop/Mobile",
-      "price_usd": 289.0,
-      "score": 2596.0,
-      "value_for_money": 8,
       "popularity": 0.1,
       "stars": 3
     },
     {
       "rank": 88,
+      "name": "NVIDIA RTX A4000",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 2608.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 3
+    },
+    {
+      "rank": 89,
+      "name": "Intel Arc A750",
+      "type": "Desktop/Mobile",
+      "price_usd": 289.0,
+      "score": 2600.0,
+      "value_for_money": 8,
+      "popularity": 0.1,
+      "stars": 3
+    },
+    {
+      "rank": 90,
       "name": "NVIDIA GeForce RTX 3070 Ti (notebook)",
       "type": "Desktop/Mobile",
       "price_usd": null,
@@ -884,17 +904,17 @@
       "stars": 3
     },
     {
-      "rank": 89,
+      "rank": 91,
       "name": "NVIDIA GeForce RTX 2080",
       "type": "Desktop/Mobile",
       "price_usd": 699.0,
-      "score": 2560.0,
+      "score": 2558.0,
       "value_for_money": 3,
       "popularity": 0.3,
       "stars": 3
     },
     {
-      "rank": 90,
+      "rank": 92,
       "name": "Mac Studio (2022 M1 Ultra, 48-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -904,27 +924,27 @@
       "stars": 3
     },
     {
-      "rank": 91,
+      "rank": 93,
       "name": "AMD Radeon RX 6750 XT",
       "type": "Desktop/Mobile",
       "price_usd": 549.0,
-      "score": 2538.0,
+      "score": 2539.0,
       "value_for_money": 4,
-      "popularity": 0.3,
+      "popularity": 0.2,
       "stars": 3
     },
     {
-      "rank": 92,
+      "rank": 94,
       "name": "AMD Radeon RX 6700 XT",
       "type": "Desktop/Mobile",
       "price_usd": 479.0,
-      "score": 2425.0,
+      "score": 2424.0,
       "value_for_money": 5,
       "popularity": 0.6,
       "stars": 2
     },
     {
-      "rank": 93,
+      "rank": 95,
       "name": "NVIDIA Titan Xp",
       "type": "Desktop/Mobile",
       "price_usd": 1199.0,
@@ -934,7 +954,7 @@
       "stars": 2
     },
     {
-      "rank": 94,
+      "rank": 96,
       "name": "AMD Radeon RX 6750 GRE 12 GB",
       "type": "Desktop/Mobile",
       "price_usd": 289.0,
@@ -944,87 +964,87 @@
       "stars": 2
     },
     {
-      "rank": 95,
+      "rank": 97,
       "name": "NVIDIA GeForce RTX 2070 SUPER",
       "type": "Desktop/Mobile",
       "price_usd": 499.0,
-      "score": 2384.0,
+      "score": 2383.0,
       "value_for_money": 4,
-      "popularity": 0.6,
+      "popularity": 0.5,
       "stars": 2
     },
     {
-      "rank": 96,
+      "rank": 98,
       "name": "NVIDIA GeForce RTX 3070 (notebook)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 2379.0,
+      "score": 2375.0,
       "value_for_money": null,
       "popularity": 0.3,
       "stars": 2
     },
     {
-      "rank": 97,
+      "rank": 99,
       "name": "NVIDIA GeForce RTX 2080 SUPER",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 2356.0,
+      "score": 2364.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
-      "rank": 98,
+      "rank": 100,
+      "name": "AMD Radeon RX 7600 XT",
+      "type": "Desktop/Mobile",
+      "price_usd": 329.0,
+      "score": 2355.0,
+      "value_for_money": 7,
+      "popularity": 0.1,
+      "stars": 2
+    },
+    {
+      "rank": 101,
       "name": "NVIDIA Titan Xp Collector's Edition",
       "type": "Desktop/Mobile",
       "price_usd": 1199.0,
-      "score": 2355.0,
+      "score": 2351.0,
       "value_for_money": 1,
       "popularity": 0.0,
       "stars": 2
     },
     {
-      "rank": 99,
-      "name": "AMD Radeon RX 7600 XT",
-      "type": "Desktop/Mobile",
-      "price_usd": 329.0,
-      "score": 2354.0,
-      "value_for_money": 7,
-      "popularity": 0.1,
-      "stars": 2
-    },
-    {
-      "rank": 100,
+      "rank": 102,
       "name": "NVIDIA GeForce RTX 2080",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 2334.0,
+      "score": 2338.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
-      "rank": 101,
+      "rank": 103,
       "name": "NVIDIA GeForce RTX 5050",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 2321.0,
+      "score": 2323.0,
       "value_for_money": null,
       "popularity": 0.1,
       "stars": 2
     },
     {
-      "rank": 102,
-      "name": "NVIDIA GeForce RTX 4060",
+      "rank": 104,
+      "name": "AMD Radeon VII",
       "type": "Desktop/Mobile",
-      "price_usd": 299.0,
-      "score": 2313.0,
-      "value_for_money": 7,
-      "popularity": 1.4,
+      "price_usd": 699.0,
+      "score": 2318.0,
+      "value_for_money": 3,
+      "popularity": 0.0,
       "stars": 2
     },
     {
-      "rank": 103,
+      "rank": 105,
       "name": "AMD Radeon RX 7600",
       "type": "Desktop/Mobile",
       "price_usd": 269.0,
@@ -1034,27 +1054,17 @@
       "stars": 2
     },
     {
-      "rank": 104,
-      "name": "AMD Radeon VII",
-      "type": "Desktop/Mobile",
-      "price_usd": 699.0,
-      "score": 2312.0,
-      "value_for_money": 3,
-      "popularity": 0.0,
-      "stars": 2
-    },
-    {
-      "rank": 105,
-      "name": "AMD Radeon RX 7650 GRE",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 2309.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 2
-    },
-    {
       "rank": 106,
+      "name": "NVIDIA GeForce RTX 4060",
+      "type": "Desktop/Mobile",
+      "price_usd": 299.0,
+      "score": 2309.0,
+      "value_for_money": 7,
+      "popularity": 1.2,
+      "stars": 2
+    },
+    {
+      "rank": 107,
       "name": "MacBook Pro (2026 M5 Pro, 20-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -1064,7 +1074,17 @@
       "stars": 2
     },
     {
-      "rank": 107,
+      "rank": 108,
+      "name": "AMD Radeon RX 7650 GRE",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 2304.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 2
+    },
+    {
+      "rank": 109,
       "name": "MacBook Pro (2023 M3 Max, 30-core GPU, 16\")",
       "type": "Mac",
       "price_usd": null,
@@ -1074,7 +1094,7 @@
       "stars": 2
     },
     {
-      "rank": 108,
+      "rank": 110,
       "name": "Mac Studio (2023 M2 Max, 38-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -1084,27 +1104,27 @@
       "stars": 2
     },
     {
-      "rank": 109,
+      "rank": 111,
       "name": "NVIDIA RTX 4060 (notebook)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 2268.0,
+      "score": 2267.0,
       "value_for_money": null,
       "popularity": 0.8,
       "stars": 2
     },
     {
-      "rank": 110,
+      "rank": 112,
       "name": "Intel Arc A770M",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 2266.0,
+      "score": 2265.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
-      "rank": 111,
+      "rank": 113,
       "name": "MacBook Pro (2026 M5 Pro, 20-core GPU, 16\")",
       "type": "Mac",
       "price_usd": null,
@@ -1114,7 +1134,7 @@
       "stars": 2
     },
     {
-      "rank": 112,
+      "rank": 114,
       "name": "MacBook Pro (2023 M2 Max, 38-core GPU, 16\")",
       "type": "Mac",
       "price_usd": null,
@@ -1124,38 +1144,28 @@
       "stars": 2
     },
     {
-      "rank": 113,
-      "name": "NVIDIA GeForce GTX 1080 Ti",
-      "type": "Desktop/Mobile",
-      "price_usd": 699.0,
-      "score": 2231.0,
-      "value_for_money": 3,
-      "popularity": 0.5,
-      "stars": 2
-    },
-    {
-      "rank": 114,
-      "name": "Intel Arc A580",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 2231.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 2
-    },
-    {
       "rank": 115,
       "name": "NVIDIA Titan X (Pascal)",
       "type": "Desktop/Mobile",
       "price_usd": 1199.0,
-      "score": 2227.0,
+      "score": 2231.0,
       "value_for_money": 1,
       "popularity": 0.0,
       "stars": 2
     },
     {
       "rank": 116,
-      "name": "NVIDIA RTX 4000 SFF Ada Generation",
+      "name": "NVIDIA GeForce GTX 1080 Ti",
+      "type": "Desktop/Mobile",
+      "price_usd": 699.0,
+      "score": 2225.0,
+      "value_for_money": 3,
+      "popularity": 0.4,
+      "stars": 2
+    },
+    {
+      "rank": 117,
+      "name": "AMD Radeon RX 6800M",
       "type": "Desktop/Mobile",
       "price_usd": null,
       "score": 2206.0,
@@ -1164,21 +1174,11 @@
       "stars": 2
     },
     {
-      "rank": 117,
-      "name": "AMD Radeon RX 6800M",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 2199.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 2
-    },
-    {
       "rank": 118,
-      "name": "AMD Radeon RX 7700S",
+      "name": "Intel Arc A580",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 2188.0,
+      "score": 2187.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
@@ -1198,93 +1198,113 @@
       "name": "AMD Radeon Pro VII",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 2163.0,
+      "score": 2164.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
       "rank": 121,
-      "name": "NVIDIA GeForce RTX 5050 (notebook)",
+      "name": "AMD Radeon RX 7700S",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 2137.0,
+      "score": 2161.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
       "rank": 122,
-      "name": "AMD Radeon RX 5700 XT",
+      "name": "NVIDIA GeForce RTX 5050 (notebook)",
       "type": "Desktop/Mobile",
-      "price_usd": 399.0,
-      "score": 2117.0,
-      "value_for_money": 5,
-      "popularity": 0.5,
+      "price_usd": null,
+      "score": 2130.0,
+      "value_for_money": null,
+      "popularity": 0.1,
       "stars": 2
     },
     {
       "rank": 123,
+      "name": "AMD Radeon RX 5700 XT",
+      "type": "Desktop/Mobile",
+      "price_usd": 399.0,
+      "score": 2114.0,
+      "value_for_money": 5,
+      "popularity": 0.4,
+      "stars": 2
+    },
+    {
+      "rank": 124,
       "name": "NVIDIA GeForce RTX 2070",
       "type": "Desktop/Mobile",
       "price_usd": 499.0,
-      "score": 2093.0,
+      "score": 2094.0,
       "value_for_money": 4,
       "popularity": 0.3,
       "stars": 2
     },
     {
-      "rank": 124,
+      "rank": 125,
       "name": "AMD Radeon RX 7600M XT",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 2088.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 2
-    },
-    {
-      "rank": 125,
-      "name": "AMD Radeon 8060S Graphics",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 2038.0,
+      "score": 2086.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
       "rank": 126,
-      "name": "NVIDIA GeForce RTX 3060 GA104",
+      "name": "AMD Radeon 8060S Graphics",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 2003.0,
-      "value_for_money": null,
-      "popularity": 0.3,
-      "stars": 2
-    },
-    {
-      "rank": 127,
-      "name": "AMD Radeon RX 6700",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 2003.0,
-      "value_for_money": null,
-      "popularity": 0.1,
-      "stars": 2
-    },
-    {
-      "rank": 128,
-      "name": "AMD Radeon RX 6750 GRE 10 GB",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 1993.0,
+      "score": 2027.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
+      "rank": 127,
+      "name": "NVIDIA GeForce RTX 3060 GA104",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 2006.0,
+      "value_for_money": null,
+      "popularity": 0.3,
+      "stars": 2
+    },
+    {
+      "rank": 128,
+      "name": "AMD Radeon RX 6700",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 2002.0,
+      "value_for_money": null,
+      "popularity": 0.1,
+      "stars": 2
+    },
+    {
       "rank": 129,
+      "name": "NVIDIA GeForce RTX 2070 SUPER",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 2001.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 2
+    },
+    {
+      "rank": 130,
+      "name": "AMD Radeon RX 6750 GRE 10 GB",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 1987.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 2
+    },
+    {
+      "rank": 131,
       "name": "NVIDIA GeForce RTX 2060 SUPER",
       "type": "Desktop/Mobile",
       "price_usd": 399.0,
@@ -1294,27 +1314,17 @@
       "stars": 2
     },
     {
-      "rank": 130,
-      "name": "NVIDIA GeForce RTX 2070 SUPER",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 1976.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 2
-    },
-    {
-      "rank": 131,
+      "rank": 132,
       "name": "NVIDIA GeForce RTX 3060",
       "type": "Desktop/Mobile",
       "price_usd": 359.0,
-      "score": 1974.0,
+      "score": 1978.0,
       "value_for_money": 5,
-      "popularity": 1.4,
+      "popularity": 1.3,
       "stars": 2
     },
     {
-      "rank": 132,
+      "rank": 133,
       "name": "MacBook Pro (2026 M5 Pro, 16-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -1324,17 +1334,17 @@
       "stars": 2
     },
     {
-      "rank": 133,
+      "rank": 134,
       "name": "AMD Radeon RX 7600S",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 1905.0,
+      "score": 1909.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
-      "rank": 134,
+      "rank": 135,
       "name": "Mac Studio (2023 M2 Max, 30-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -1344,7 +1354,7 @@
       "stars": 2
     },
     {
-      "rank": 135,
+      "rank": 136,
       "name": "MacBook Pro (2024 M4 Pro, 20-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -1354,37 +1364,37 @@
       "stars": 2
     },
     {
-      "rank": 136,
+      "rank": 137,
       "name": "AMD Radeon RX 6650 XT",
       "type": "Desktop/Mobile",
       "price_usd": 249.0,
-      "score": 1854.0,
+      "score": 1853.0,
       "value_for_money": 7,
       "popularity": 0.2,
       "stars": 2
     },
     {
-      "rank": 137,
+      "rank": 138,
       "name": "AMD Radeon RX 5700",
       "type": "Desktop/Mobile",
       "price_usd": 349.0,
-      "score": 1851.0,
+      "score": 1852.0,
       "value_for_money": 5,
       "popularity": 0.1,
       "stars": 2
     },
     {
-      "rank": 138,
+      "rank": 139,
       "name": "NVIDIA Quadro RTX 4000",
       "type": "Desktop/Mobile",
       "price_usd": 899.0,
-      "score": 1845.0,
+      "score": 1847.0,
       "value_for_money": 2,
       "popularity": 0.0,
       "stars": 2
     },
     {
-      "rank": 139,
+      "rank": 140,
       "name": "Mac mini (2024 M4 Pro, 20-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -1394,21 +1404,11 @@
       "stars": 2
     },
     {
-      "rank": 140,
+      "rank": 141,
       "name": "MacBook Pro (2024 M4 Pro, 20-core GPU, 16\")",
       "type": "Mac",
       "price_usd": null,
       "score": 1841.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 2
-    },
-    {
-      "rank": 141,
-      "name": "NVIDIA GeForce RTX 2080 SUPER",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 1836.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
@@ -1425,16 +1425,26 @@
     },
     {
       "rank": 143,
+      "name": "NVIDIA GeForce RTX 2080 SUPER",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 1825.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 2
+    },
+    {
+      "rank": 144,
       "name": "NVIDIA GeForce RTX 3060 (notebook)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 1802.0,
+      "score": 1801.0,
       "value_for_money": null,
       "popularity": 0.5,
       "stars": 2
     },
     {
-      "rank": 144,
+      "rank": 145,
       "name": "MacBook Pro (2023 M2 Max, 38-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -1444,33 +1454,23 @@
       "stars": 2
     },
     {
-      "rank": 145,
+      "rank": 146,
       "name": "AMD Radeon RX 6600 XT",
       "type": "Desktop/Mobile",
       "price_usd": 379.0,
-      "score": 1793.0,
+      "score": 1792.0,
       "value_for_money": 4,
       "popularity": 0.2,
       "stars": 2
     },
     {
-      "rank": 146,
+      "rank": 147,
       "name": "NVIDIA RTX 4050 (notebook)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 1789.0,
+      "score": 1786.0,
       "value_for_money": null,
       "popularity": 0.2,
-      "stars": 2
-    },
-    {
-      "rank": 147,
-      "name": "NVIDIA GeForce RTX 2060 12 GB",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 1774.0,
-      "value_for_money": null,
-      "popularity": 0.0,
       "stars": 2
     },
     {
@@ -1478,13 +1478,23 @@
       "name": "NVIDIA GeForce RTX 2070 (Notebook refresh)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 1766.0,
+      "score": 1773.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
       "rank": 149,
+      "name": "NVIDIA GeForce RTX 2060 12 GB",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 1770.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 2
+    },
+    {
+      "rank": 150,
       "name": "MacBook Pro (2023 M2 Max, 30-core GPU, 16\")",
       "type": "Mac",
       "price_usd": null,
@@ -1494,27 +1504,37 @@
       "stars": 2
     },
     {
-      "rank": 150,
-      "name": "NVIDIA GeForce RTX 2070",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 1748.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 2
-    },
-    {
       "rank": 151,
       "name": "NVIDIA GeForce RTX 2080",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 1747.0,
+      "score": 1761.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
       "rank": 152,
+      "name": "NVIDIA GeForce RTX 2070",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 1750.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 2
+    },
+    {
+      "rank": 153,
+      "name": "NVIDIA GeForce RTX 2070 SUPER",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 1740.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 2
+    },
+    {
+      "rank": 154,
       "name": "Mac Studio (2022 M1 Max, 32-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -1524,7 +1544,7 @@
       "stars": 2
     },
     {
-      "rank": 153,
+      "rank": 155,
       "name": "MacBook Pro (2021 M1 Max, 32-core GPU, 16\")",
       "type": "Mac",
       "price_usd": null,
@@ -1534,57 +1554,47 @@
       "stars": 2
     },
     {
-      "rank": 154,
+      "rank": 156,
       "name": "NVIDIA GeForce RTX 2060",
       "type": "Desktop/Mobile",
       "price_usd": 349.0,
-      "score": 1704.0,
+      "score": 1703.0,
       "value_for_money": 4,
       "popularity": 0.5,
       "stars": 2
     },
     {
-      "rank": 155,
-      "name": "NVIDIA GeForce RTX 2070 SUPER",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 1694.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 2
-    },
-    {
-      "rank": 156,
+      "rank": 157,
       "name": "AMD Radeon RX Vega 64",
       "type": "Desktop/Mobile",
       "price_usd": 499.0,
-      "score": 1677.0,
+      "score": 1675.0,
       "value_for_money": 3,
-      "popularity": 0.1,
-      "stars": 2
-    },
-    {
-      "rank": 157,
-      "name": "AMD Radeon RX 6800S",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 1677.0,
-      "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
       "rank": 158,
+      "name": "AMD Radeon RX 6800S",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 1675.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 2
+    },
+    {
+      "rank": 159,
       "name": "AMD Radeon RX 5600 XT",
       "type": "Desktop/Mobile",
       "price_usd": 279.0,
-      "score": 1664.0,
+      "score": 1663.0,
       "value_for_money": 5,
       "popularity": 0.1,
       "stars": 2
     },
     {
-      "rank": 159,
+      "rank": 160,
       "name": "MacBook Pro (2023 M2 Max, 30-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -1594,27 +1604,37 @@
       "stars": 2
     },
     {
-      "rank": 160,
+      "rank": 161,
       "name": "NVIDIA GeForce GTX 1080",
       "type": "Desktop/Mobile",
       "price_usd": 599.0,
-      "score": 1629.0,
+      "score": 1631.0,
       "value_for_money": 2,
       "popularity": 0.4,
       "stars": 2
     },
     {
-      "rank": 161,
+      "rank": 162,
+      "name": "Intel Arc Pro B50",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 1604.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 2
+    },
+    {
+      "rank": 163,
       "name": "NVIDIA GeForce RTX 3060 8 GB",
       "type": "Desktop/Mobile",
       "price_usd": 329.0,
-      "score": 1584.0,
+      "score": 1588.0,
       "value_for_money": 4,
       "popularity": 0.0,
       "stars": 2
     },
     {
-      "rank": 162,
+      "rank": 164,
       "name": "MacBook Pro (2024 M4 Pro, 16-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -1624,7 +1644,7 @@
       "stars": 2
     },
     {
-      "rank": 163,
+      "rank": 165,
       "name": "Mac mini (2024 M4 Pro, 16-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -1634,77 +1654,87 @@
       "stars": 2
     },
     {
-      "rank": 164,
-      "name": "NVIDIA GeForce GTX 1080",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 1561.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 2
-    },
-    {
-      "rank": 165,
-      "name": "NVIDIA GeForce RTX 2070  (refresh)",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 1543.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 2
-    },
-    {
       "rank": 166,
       "name": "NVIDIA GeForce RTX 2070",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 1531.0,
+      "score": 1556.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
       "rank": 167,
-      "name": "AMD Radeon RX Vega 56",
+      "name": "NVIDIA GeForce GTX 1080",
       "type": "Desktop/Mobile",
-      "price_usd": 399.0,
-      "score": 1506.0,
-      "value_for_money": 3,
+      "price_usd": null,
+      "score": 1554.0,
+      "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
       "rank": 168,
-      "name": "AMD Radeon RX 5600",
+      "name": "NVIDIA GeForce RTX 2070  (refresh)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 1492.0,
+      "score": 1553.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
       "rank": 169,
-      "name": "AMD Radeon RX 6600",
+      "name": "AMD Radeon RX Vega 56",
       "type": "Desktop/Mobile",
-      "price_usd": 330.0,
-      "score": 1487.0,
-      "value_for_money": 4,
-      "popularity": 0.4,
+      "price_usd": 399.0,
+      "score": 1514.0,
+      "value_for_money": 3,
+      "popularity": 0.0,
       "stars": 2
     },
     {
       "rank": 170,
-      "name": "AMD Radeon RX 6600M",
+      "name": "Intel Arc B390",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 1483.0,
+      "score": 1494.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
       "rank": 171,
+      "name": "AMD Radeon RX 5600",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 1491.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 2
+    },
+    {
+      "rank": 172,
+      "name": "AMD Radeon RX 6600",
+      "type": "Desktop/Mobile",
+      "price_usd": 330.0,
+      "score": 1486.0,
+      "value_for_money": 4,
+      "popularity": 0.4,
+      "stars": 2
+    },
+    {
+      "rank": 173,
+      "name": "AMD Radeon RX 6600M",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 1479.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 2
+    },
+    {
+      "rank": 174,
       "name": "MacBook Pro (2021 M1 Max, 32-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -1714,7 +1744,7 @@
       "stars": 2
     },
     {
-      "rank": 172,
+      "rank": 175,
       "name": "NVIDIA GeForce GTX 1070 Ti",
       "type": "Desktop/Mobile",
       "price_usd": 399.0,
@@ -1724,27 +1754,27 @@
       "stars": 2
     },
     {
-      "rank": 173,
+      "rank": 176,
       "name": "AMD Radeon RX 6700S",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 1421.0,
+      "score": 1425.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
-      "rank": 174,
+      "rank": 177,
       "name": "AMD Radeon RX 6600 LE",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 1408.0,
+      "score": 1407.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
-      "rank": 175,
+      "rank": 178,
       "name": "MacBook Pro (2021 M1 Max, 24-core GPU, 16\")",
       "type": "Mac",
       "price_usd": null,
@@ -1754,7 +1784,17 @@
       "stars": 2
     },
     {
-      "rank": 176,
+      "rank": 179,
+      "name": "NVIDIA GeForce RTX 2060 (Notebook refresh)",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 1380.0,
+      "value_for_money": null,
+      "popularity": 0.1,
+      "stars": 2
+    },
+    {
+      "rank": 180,
       "name": "Mac Studio (2022 M1 Max, 24-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -1764,47 +1804,37 @@
       "stars": 2
     },
     {
-      "rank": 177,
-      "name": "NVIDIA GeForce RTX 2060 (Notebook refresh)",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 1375.0,
-      "value_for_money": null,
-      "popularity": 0.1,
-      "stars": 2
-    },
-    {
-      "rank": 178,
+      "rank": 181,
       "name": "NVIDIA GeForce RTX 2060",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 1366.0,
+      "score": 1365.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
-      "rank": 179,
+      "rank": 182,
       "name": "NVIDIA RTX A2000",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 1355.0,
+      "score": 1363.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
-      "rank": 180,
+      "rank": 183,
       "name": "NVIDIA GeForce GTX 1070",
       "type": "Desktop/Mobile",
       "price_usd": 379.0,
-      "score": 1340.0,
+      "score": 1339.0,
       "value_for_money": 3,
       "popularity": 0.4,
       "stars": 2
     },
     {
-      "rank": 181,
+      "rank": 184,
       "name": "MacBook Pro (2023 M3 Pro, 18-core GPU, 16\")",
       "type": "Mac",
       "price_usd": null,
@@ -1814,17 +1844,17 @@
       "stars": 2
     },
     {
-      "rank": 182,
+      "rank": 185,
       "name": "NVIDIA GeForce RTX 3050",
       "type": "Desktop/Mobile",
       "price_usd": 249.0,
-      "score": 1337.0,
+      "score": 1338.0,
       "value_for_money": 5,
       "popularity": 0.2,
       "stars": 2
     },
     {
-      "rank": 183,
+      "rank": 186,
       "name": "MacBook Pro (2023 M3 Pro, 18-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -1834,17 +1864,17 @@
       "stars": 2
     },
     {
-      "rank": 184,
+      "rank": 187,
       "name": "NVIDIA RTX A2000 12 GB",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 1326.0,
+      "score": 1328.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
-      "rank": 185,
+      "rank": 188,
       "name": "NVIDIA GeForce GTX 980 Ti",
       "type": "Desktop/Mobile",
       "price_usd": 649.0,
@@ -1854,17 +1884,17 @@
       "stars": 2
     },
     {
-      "rank": 186,
+      "rank": 189,
       "name": "NVIDIA GeForce GTX 1660 Ti",
       "type": "Desktop/Mobile",
       "price_usd": 279.0,
-      "score": 1305.0,
+      "score": 1307.0,
       "value_for_money": 4,
       "popularity": 0.2,
       "stars": 2
     },
     {
-      "rank": 187,
+      "rank": 190,
       "name": "MacBook Pro (2021 M1 Max, 24-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -1874,57 +1904,67 @@
       "stars": 2
     },
     {
-      "rank": 188,
+      "rank": 191,
       "name": "NVIDIA Quadro RTX 3000 Mobile",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 1280.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 2
-    },
-    {
-      "rank": 189,
-      "name": "NVIDIA GeForce GTX 1660 SUPER",
-      "type": "Desktop/Mobile",
-      "price_usd": 229.0,
-      "score": 1248.0,
-      "value_for_money": 5,
-      "popularity": 0.4,
-      "stars": 2
-    },
-    {
-      "rank": 190,
-      "name": "NVIDIA GTX TITAN X",
-      "type": "Desktop/Mobile",
-      "price_usd": 999.0,
-      "score": 1238.0,
-      "value_for_money": 1,
-      "popularity": 0.0,
-      "stars": 2
-    },
-    {
-      "rank": 191,
-      "name": "NVIDIA GeForce GTX 1070",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 1237.0,
+      "score": 1283.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 2
     },
     {
       "rank": 192,
-      "name": "NVIDIA GeForce RTX 2060",
+      "name": "NVIDIA GTX TITAN X",
       "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 1216.0,
-      "value_for_money": null,
+      "price_usd": 999.0,
+      "score": 1249.0,
+      "value_for_money": 1,
       "popularity": 0.0,
       "stars": 2
     },
     {
       "rank": 193,
+      "name": "NVIDIA GeForce GTX 1660 SUPER",
+      "type": "Desktop/Mobile",
+      "price_usd": 229.0,
+      "score": 1246.0,
+      "value_for_money": 5,
+      "popularity": 0.4,
+      "stars": 2
+    },
+    {
+      "rank": 194,
+      "name": "NVIDIA GeForce GTX 1070",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 1236.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 2
+    },
+    {
+      "rank": 195,
+      "name": "NVIDIA GeForce RTX 2060",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 1226.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 2
+    },
+    {
+      "rank": 196,
+      "name": "NVIDIA GeForce GTX 1660 Ti",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 1179.0,
+      "value_for_money": null,
+      "popularity": 0.1,
+      "stars": 2
+    },
+    {
+      "rank": 197,
       "name": "Mac mini (2023 M2 Pro, 19-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -1934,17 +1974,7 @@
       "stars": 2
     },
     {
-      "rank": 194,
-      "name": "NVIDIA GeForce GTX 1660 Ti",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 1177.0,
-      "value_for_money": null,
-      "popularity": 0.1,
-      "stars": 2
-    },
-    {
-      "rank": 195,
+      "rank": 198,
       "name": "MacBook Pro (2023 M2 Pro, 19-core GPU, 16\")",
       "type": "Mac",
       "price_usd": null,
@@ -1954,7 +1984,7 @@
       "stars": 2
     },
     {
-      "rank": 196,
+      "rank": 199,
       "name": "MacBook Pro (2023 M2 Pro, 19-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -1964,7 +1994,7 @@
       "stars": 2
     },
     {
-      "rank": 197,
+      "rank": 200,
       "name": "MacBook Pro (2023 M3 Pro, 14-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -1974,7 +2004,7 @@
       "stars": 2
     },
     {
-      "rank": 198,
+      "rank": 201,
       "name": "MacBook Pro (2025 M5, 10-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -1984,27 +2014,27 @@
       "stars": 2
     },
     {
-      "rank": 199,
+      "rank": 202,
       "name": "NVIDIA GeForce RTX 3050 6 GB (notebook)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 1096.0,
+      "score": 1088.0,
       "value_for_money": null,
       "popularity": 0.1,
       "stars": 2
     },
     {
-      "rank": 200,
+      "rank": 203,
       "name": "AMD Radeon RX 590",
       "type": "Desktop/Mobile",
       "price_usd": 279.0,
-      "score": 1081.0,
+      "score": 1079.0,
       "value_for_money": 3,
       "popularity": 0.0,
       "stars": 2
     },
     {
-      "rank": 201,
+      "rank": 204,
       "name": "MacBook Air (2026 M5, 10-core GPU, 13\")",
       "type": "Mac",
       "price_usd": null,
@@ -2014,27 +2044,7 @@
       "stars": 2
     },
     {
-      "rank": 202,
-      "name": "NVIDIA GeForce GTX 1070",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 1054.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 2
-    },
-    {
-      "rank": 203,
-      "name": "NVIDIA GeForce GTX 1660",
-      "type": "Desktop/Mobile",
-      "price_usd": 219.0,
-      "score": 1047.0,
-      "value_for_money": 4,
-      "popularity": 0.1,
-      "stars": 2
-    },
-    {
-      "rank": 204,
+      "rank": 205,
       "name": "MacBook Air (2026 M5, 10-core GPU, 15\")",
       "type": "Mac",
       "price_usd": null,
@@ -2044,7 +2054,17 @@
       "stars": 2
     },
     {
-      "rank": 205,
+      "rank": 206,
+      "name": "NVIDIA GeForce GTX 1660",
+      "type": "Desktop/Mobile",
+      "price_usd": 219.0,
+      "score": 1046.0,
+      "value_for_money": 4,
+      "popularity": 0.1,
+      "stars": 2
+    },
+    {
+      "rank": 207,
       "name": "NVIDIA GeForce GTX 1660 Ti",
       "type": "Desktop/Mobile",
       "price_usd": null,
@@ -2054,7 +2074,7 @@
       "stars": 2
     },
     {
-      "rank": 206,
+      "rank": 208,
       "name": "AMD Radeon RX 5500 XT",
       "type": "Desktop/Mobile",
       "price_usd": 169.0,
@@ -2064,7 +2084,7 @@
       "stars": 2
     },
     {
-      "rank": 207,
+      "rank": 209,
       "name": "Mac mini (2023 M2 Pro, 16-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -2074,17 +2094,17 @@
       "stars": 2
     },
     {
-      "rank": 208,
+      "rank": 210,
       "name": "AMD Radeon RX 580",
       "type": "Desktop/Mobile",
       "price_usd": 229.0,
-      "score": 1005.0,
+      "score": 1004.0,
       "value_for_money": 4,
       "popularity": 0.2,
       "stars": 2
     },
     {
-      "rank": 209,
+      "rank": 211,
       "name": "NVIDIA GeForce RTX 3050 6 GB",
       "type": "Desktop/Mobile",
       "price_usd": null,
@@ -2094,17 +2114,17 @@
       "stars": 2
     },
     {
-      "rank": 210,
+      "rank": 212,
       "name": "AMD Radeon RX 590 GME",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 996.0,
+      "score": 994.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 1
     },
     {
-      "rank": 211,
+      "rank": 213,
       "name": "MacBook Pro (2023 M2 Pro, 16-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -2114,37 +2134,37 @@
       "stars": 1
     },
     {
-      "rank": 212,
+      "rank": 214,
       "name": "AMD Radeon RX 480",
       "type": "Desktop/Mobile",
       "price_usd": 229.0,
-      "score": 959.0,
+      "score": 962.0,
       "value_for_money": 4,
       "popularity": 0.0,
       "stars": 1
     },
     {
-      "rank": 213,
+      "rank": 215,
       "name": "AMD Radeon R9 390",
       "type": "Desktop/Mobile",
       "price_usd": 329.0,
-      "score": 951.0,
+      "score": 954.0,
       "value_for_money": 2,
       "popularity": 0.0,
       "stars": 1
     },
     {
-      "rank": 214,
+      "rank": 216,
       "name": "NVIDIA GeForce GTX 1060-6GB",
       "type": "Desktop/Mobile",
       "price_usd": 299.0,
-      "score": 906.0,
+      "score": 905.0,
       "value_for_money": 3,
       "popularity": 0.4,
       "stars": 1
     },
     {
-      "rank": 215,
+      "rank": 217,
       "name": "MacBook Pro (2021 M1 Pro, 16-core GPU, 16\")",
       "type": "Mac",
       "price_usd": null,
@@ -2154,17 +2174,17 @@
       "stars": 1
     },
     {
-      "rank": 216,
+      "rank": 218,
       "name": "NVIDIA P106-100",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 898.0,
+      "score": 896.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 1
     },
     {
-      "rank": 217,
+      "rank": 219,
       "name": "Mac mini (2024 M4, 10-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -2174,7 +2194,7 @@
       "stars": 1
     },
     {
-      "rank": 218,
+      "rank": 220,
       "name": "MacBook Pro (2021 M1 Pro, 16-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -2184,17 +2204,17 @@
       "stars": 1
     },
     {
-      "rank": 219,
+      "rank": 221,
       "name": "AMD Radeon RX 570",
       "type": "Desktop/Mobile",
       "price_usd": 169.0,
-      "score": 885.0,
+      "score": 883.0,
       "value_for_money": 5,
       "popularity": 0.1,
       "stars": 1
     },
     {
-      "rank": 220,
+      "rank": 222,
       "name": "MacBook Air (2026 M5, 8-core GPU, 13\")",
       "type": "Mac",
       "price_usd": null,
@@ -2204,7 +2224,7 @@
       "stars": 1
     },
     {
-      "rank": 221,
+      "rank": 223,
       "name": "MacBook Pro (2024 M4, 10-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -2214,27 +2234,27 @@
       "stars": 1
     },
     {
-      "rank": 222,
+      "rank": 224,
       "name": "AMD Radeon RX 470",
       "type": "Desktop/Mobile",
       "price_usd": 179.0,
-      "score": 849.0,
+      "score": 845.0,
       "value_for_money": 4,
       "popularity": 0.0,
       "stars": 1
     },
     {
-      "rank": 223,
+      "rank": 225,
       "name": "AMD Radeon RX 580 2048SP",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 839.0,
+      "score": 836.0,
       "value_for_money": null,
       "popularity": 0.1,
       "stars": 1
     },
     {
-      "rank": 224,
+      "rank": 226,
       "name": "iMac (2024 M4, 10-core GPU, 24\")",
       "type": "Mac",
       "price_usd": null,
@@ -2244,7 +2264,7 @@
       "stars": 1
     },
     {
-      "rank": 225,
+      "rank": 227,
       "name": "MacBook Air (2025 M4, 10-core GPU, 15\")",
       "type": "Mac",
       "price_usd": null,
@@ -2254,7 +2274,7 @@
       "stars": 1
     },
     {
-      "rank": 226,
+      "rank": 228,
       "name": "MacBook Pro (2021 M1 Pro, 14-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -2264,7 +2284,7 @@
       "stars": 1
     },
     {
-      "rank": 227,
+      "rank": 229,
       "name": "MacBook Air (2025 M4, 10-core GPU, 13\")",
       "type": "Mac",
       "price_usd": null,
@@ -2274,17 +2294,7 @@
       "stars": 1
     },
     {
-      "rank": 228,
-      "name": "Intel Arc 140T GPU",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 805.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 1
-    },
-    {
-      "rank": 229,
+      "rank": 230,
       "name": "NVIDIA GeForce GTX 1060",
       "type": "Desktop/Mobile",
       "price_usd": null,
@@ -2294,27 +2304,27 @@
       "stars": 1
     },
     {
-      "rank": 230,
-      "name": "Intel Arc A380",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 789.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 1
-    },
-    {
       "rank": 231,
-      "name": "Intel Arc Graphics (Lunar Lake)",
+      "name": "Intel Arc 140T GPU",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 780.0,
+      "score": 796.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 1
     },
     {
       "rank": 232,
+      "name": "Intel Arc A380",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 786.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 1
+    },
+    {
+      "rank": 233,
       "name": "MacBook Air (2025 M4, 8-core GPU, 13\")",
       "type": "Mac",
       "price_usd": null,
@@ -2324,7 +2334,7 @@
       "stars": 1
     },
     {
-      "rank": 233,
+      "rank": 234,
       "name": "iMac (2024 M4, 8-core GPU, 24\")",
       "type": "Mac",
       "price_usd": null,
@@ -2334,7 +2344,17 @@
       "stars": 1
     },
     {
-      "rank": 234,
+      "rank": 235,
+      "name": "Intel Arc Graphics (Lunar Lake)",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 727.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 1
+    },
+    {
+      "rank": 236,
       "name": "MacBook Pro (2023 M3, 10-core GPU, 14\")",
       "type": "Mac",
       "price_usd": null,
@@ -2344,7 +2364,7 @@
       "stars": 1
     },
     {
-      "rank": 235,
+      "rank": 237,
       "name": "MacBook Air (2024 M3, 10-core GPU, 15\")",
       "type": "Mac",
       "price_usd": null,
@@ -2354,7 +2374,7 @@
       "stars": 1
     },
     {
-      "rank": 236,
+      "rank": 238,
       "name": "iMac (2023 M3, 10-core GPU, 24\")",
       "type": "Mac",
       "price_usd": null,
@@ -2364,7 +2384,7 @@
       "stars": 1
     },
     {
-      "rank": 237,
+      "rank": 239,
       "name": "MacBook Air (2024 M3, 10-core GPU, 13\")",
       "type": "Mac",
       "price_usd": null,
@@ -2374,27 +2394,17 @@
       "stars": 1
     },
     {
-      "rank": 238,
+      "rank": 240,
       "name": "Intel Arc Graphics",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 656.0,
+      "score": 653.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 1
     },
     {
-      "rank": 239,
-      "name": "NVIDIA GeForce GTX 980M",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 647.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 1
-    },
-    {
-      "rank": 240,
+      "rank": 241,
       "name": "MacBook Air (2024 M3, 8-core GPU, 15\")",
       "type": "Mac",
       "price_usd": null,
@@ -2404,7 +2414,7 @@
       "stars": 1
     },
     {
-      "rank": 241,
+      "rank": 242,
       "name": "Mac mini (2023 M2, 10-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -2414,7 +2424,7 @@
       "stars": 1
     },
     {
-      "rank": 242,
+      "rank": 243,
       "name": "MacBook Pro (2022 M2, 10-core GPU, 13\")",
       "type": "Mac",
       "price_usd": null,
@@ -2424,7 +2434,7 @@
       "stars": 1
     },
     {
-      "rank": 243,
+      "rank": 244,
       "name": "MacBook Air (2023 M2, 10-core GPU, 15\")",
       "type": "Mac",
       "price_usd": null,
@@ -2434,31 +2444,21 @@
       "stars": 1
     },
     {
-      "rank": 244,
+      "rank": 245,
       "name": "AMD Radeon 890M",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 555.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 1
-    },
-    {
-      "rank": 245,
-      "name": "NVIDIA GeForce GTX 980",
-      "type": "Desktop/Mobile",
-      "price_usd": 549.0,
-      "score": 504.0,
+      "score": 565.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 1
     },
     {
       "rank": 246,
-      "name": "Qualcomm Adreno X1-85",
+      "name": "NVIDIA GeForce GTX 980",
       "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 499.0,
+      "price_usd": 549.0,
+      "score": 546.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 1
@@ -2468,13 +2468,23 @@
       "name": "AMD Radeon 780M (desktop)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 497.0,
+      "score": 501.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 1
     },
     {
       "rank": 248,
+      "name": "Qualcomm Adreno X1-85",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 495.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 1
+    },
+    {
+      "rank": 249,
       "name": "MacBook Air (2022 M2, 8-core GPU, 13\")",
       "type": "Mac",
       "price_usd": null,
@@ -2484,28 +2494,18 @@
       "stars": 1
     },
     {
-      "rank": 249,
-      "name": "AMD Radeon 780M",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 478.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 1
-    },
-    {
       "rank": 250,
-      "name": "AMD ROG Ally Extreme GPU",
+      "name": "NVIDIA GeForce RTX 3050 Ti (notebook)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 477.0,
+      "score": 489.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 1
     },
     {
       "rank": 251,
-      "name": "NVIDIA GeForce RTX 3050 Ti (notebook)",
+      "name": "AMD Radeon 780M",
       "type": "Desktop/Mobile",
       "price_usd": null,
       "score": 467.0,
@@ -2515,6 +2515,16 @@
     },
     {
       "rank": 252,
+      "name": "AMD ROG Ally Extreme GPU",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 464.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 1
+    },
+    {
+      "rank": 253,
       "name": "MacBook Air (2022 M2, 10-core GPU, 13\")",
       "type": "Mac",
       "price_usd": null,
@@ -2524,31 +2534,21 @@
       "stars": 1
     },
     {
-      "rank": 253,
+      "rank": 254,
       "name": "Intel Graphics (Ultra 200 Series)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 429.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 1
-    },
-    {
-      "rank": 254,
-      "name": "iMac (2021 M1, 8-core GPU, 24\")",
-      "type": "Mac",
-      "price_usd": null,
-      "score": 420.0,
+      "score": 425.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 1
     },
     {
       "rank": 255,
-      "name": "NVIDIA GeForce RTX 3050 (notebook)",
-      "type": "Desktop/Mobile",
+      "name": "iMac (2021 M1, 8-core GPU, 24\")",
+      "type": "Mac",
       "price_usd": null,
-      "score": 419.0,
+      "score": 420.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 1
@@ -2588,13 +2588,23 @@
       "name": "NVIDIA GeForce RTX 2050 (notebook)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 394.0,
+      "score": 402.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 1
     },
     {
       "rank": 260,
+      "name": "NVIDIA GeForce RTX 3050 (notebook)",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 386.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 1
+    },
+    {
+      "rank": 261,
       "name": "MacBook Neo (2026 A18 Pro, 5-core GPU)",
       "type": "Mac",
       "price_usd": null,
@@ -2604,7 +2614,7 @@
       "stars": 1
     },
     {
-      "rank": 261,
+      "rank": 262,
       "name": "MacBook Air (2020 M1, 7-core GPU, 13\")",
       "type": "Mac",
       "price_usd": null,
@@ -2614,62 +2624,52 @@
       "stars": 1
     },
     {
-      "rank": 262,
+      "rank": 263,
       "name": "AMD Radeon 680M",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 361.0,
+      "score": 368.0,
       "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 1
-    },
-    {
-      "rank": 263,
-      "name": "NVIDIA GeForce GTX 1650 SUPER",
-      "type": "Desktop/Mobile",
-      "price_usd": 160.0,
-      "score": 334.0,
-      "value_for_money": 2,
       "popularity": 0.0,
       "stars": 1
     },
     {
       "rank": 264,
-      "name": "NVIDIA GeForce GTX 970",
+      "name": "AMD Radeon RX 6500 XT",
       "type": "Desktop/Mobile",
-      "price_usd": 329.0,
-      "score": 328.0,
-      "value_for_money": null,
+      "price_usd": 200.0,
+      "score": 343.0,
+      "value_for_money": 1,
       "popularity": 0.0,
       "stars": 1
     },
     {
       "rank": 265,
-      "name": "NVIDIA GeForce GTX 1650",
+      "name": "NVIDIA GeForce GTX 970",
       "type": "Desktop/Mobile",
-      "price_usd": 149.0,
+      "price_usd": 329.0,
+      "score": 338.0,
+      "value_for_money": 1,
+      "popularity": 0.0,
+      "stars": 1
+    },
+    {
+      "rank": 266,
+      "name": "NVIDIA GeForce GTX 1650 SUPER",
+      "type": "Desktop/Mobile",
+      "price_usd": 160.0,
       "score": 323.0,
       "value_for_money": 2,
       "popularity": 0.0,
       "stars": 1
     },
     {
-      "rank": 266,
-      "name": "AMD Radeon RX 6500 XT",
-      "type": "Desktop/Mobile",
-      "price_usd": 200.0,
-      "score": 317.0,
-      "value_for_money": 1,
-      "popularity": 0.0,
-      "stars": 1
-    },
-    {
       "rank": 267,
-      "name": "NVIDIA GeForce GTX 1050 Ti",
+      "name": "NVIDIA GeForce GTX 1650",
       "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 311.0,
-      "value_for_money": null,
+      "price_usd": 149.0,
+      "score": 320.0,
+      "value_for_money": 2,
       "popularity": 0.0,
       "stars": 1
     },
@@ -2677,19 +2677,19 @@
       "rank": 268,
       "name": "NVIDIA GeForce GTX 1050 Ti",
       "type": "Desktop/Mobile",
-      "price_usd": 139.0,
-      "score": 301.0,
-      "value_for_money": 2,
+      "price_usd": null,
+      "score": 309.0,
+      "value_for_money": null,
       "popularity": 0.0,
       "stars": 1
     },
     {
       "rank": 269,
-      "name": "NVIDIA GeForce GTX 1650 Ti",
+      "name": "NVIDIA GeForce GTX 1050 Ti",
       "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 255.0,
-      "value_for_money": null,
+      "price_usd": 139.0,
+      "score": 297.0,
+      "value_for_money": 2,
       "popularity": 0.0,
       "stars": 1
     },
@@ -2698,13 +2698,23 @@
       "name": "NVIDIA GeForce GTX 1650",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 253.0,
+      "score": 270.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 1
     },
     {
       "rank": 271,
+      "name": "NVIDIA GeForce GTX 1650 Ti",
+      "type": "Desktop/Mobile",
+      "price_usd": null,
+      "score": 251.0,
+      "value_for_money": null,
+      "popularity": 0.0,
+      "stars": 1
+    },
+    {
+      "rank": 272,
       "name": "AMD Radeon Vega 7 (Cezanne)",
       "type": "Desktop/Mobile",
       "price_usd": null,
@@ -2714,38 +2724,28 @@
       "stars": 1
     },
     {
-      "rank": 272,
+      "rank": 273,
       "name": "AMD Radeon Vega 8 (Cezanne)",
       "type": "Desktop/Mobile",
       "price_usd": null,
-      "score": 226.0,
-      "value_for_money": null,
-      "popularity": 0.0,
-      "stars": 1
-    },
-    {
-      "rank": 273,
-      "name": "Intel Iris Xe Graphics",
-      "type": "Desktop/Mobile",
-      "price_usd": null,
-      "score": 168.0,
+      "score": 225.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 1
     },
     {
       "rank": 274,
-      "name": "NVIDIA GeForce GTX 960",
+      "name": "NVIDIA GeForce GTX 1060-3GB",
       "type": "Desktop/Mobile",
       "price_usd": 199.0,
-      "score": 157.0,
+      "score": 156.0,
       "value_for_money": null,
       "popularity": 0.0,
       "stars": 1
     },
     {
       "rank": 275,
-      "name": "NVIDIA GeForce GTX 1060-3GB",
+      "name": "NVIDIA GeForce GTX 960",
       "type": "Desktop/Mobile",
       "price_usd": 199.0,
       "score": 155.0,
@@ -2788,7 +2788,7 @@
       "name": "NVIDIA GeForce GTX 1050",
       "type": "Desktop/Mobile",
       "price_usd": 109.0,
-      "score": 109.0,
+      "score": 113.0,
       "value_for_money": 1,
       "popularity": 0.0,
       "stars": 1
