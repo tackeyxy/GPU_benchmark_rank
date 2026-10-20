@@ -1,3 +1,6 @@
+import time
+import random
+
 import requests
 from bs4 import BeautifulSoup
 import csv
@@ -5,20 +8,29 @@ import json
 from datetime import datetime, timezone
 
 URL = "https://benchmarks.ul.com/zh-hans/compare/best-gpus"
-PARAMS = {
-    "amount": "0",
-    "sortBy": "SCORE",
-    "reverseOrder": "true",
-    "types": "MOBILE,DESKTOP,MAC",
-    "minRating": "0",
-}
+# 两个坑，都是实测出来的，改动前请先确认：
+# 1) 不能带查询参数。一旦带上 ?amount=0&sortBy=... 之类，源站一律 500。
+# 2) 不能自己设 Accept。只要 Accept 不是 */*（哪怕只写 text/html），
+#    源站也是一律 500。requests 默认发的就是 */*，这里显式写出来，
+#    免得以后又被"补全成浏览器请求头"改坏。
+MAX_ATTEMPTS = 6
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/124.0.0.0 Safari/537.36"
-    )
+    ),
+    "Accept": "*/*",
 }
+
+# 同一个页面换个等价写法，对 CloudFront 就是另一个缓存键。源站抽风时
+# 某些键会被缓存成一张 521 字节的静态 500 错误页，对着同一个键重试
+# 只会一直拿到同一份缓存，换键才能立刻绕开。
+URL_VARIANTS = [
+    URL,
+    "https://benchmarks.ul.com/zh-hans/./compare/best-gpus",
+]
+
 CSV_FILE = "gpu_benchmarks.csv"
 JSON_FILE = "gpu_benchmarks.json"
 
@@ -91,10 +103,40 @@ def determine_gpu_type(link):
     return "Unknown"
 
 
+def fetch_page(max_attempts=MAX_ATTEMPTS):
+    """抓取页面，按响应正文校验，而不是只看状态码。
+
+    UL 源站会间歇性抽风，CloudFront 会返回一张 521 字节的静态 500
+    错误页；正常页面约 426KB 且含 productTable。每次重试换一个
+    CloudFront 缓存键，并做退避，通常几秒内就能拿到正常页面。
+    """
+    last_error = "unknown"
+    for attempt in range(1, max_attempts + 1):
+        url = URL_VARIANTS[(attempt - 1) % len(URL_VARIANTS)]
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=30)
+        except requests.RequestException as e:
+            last_error = f"network error: {e}"
+        else:
+            if resp.status_code == 200 and "productTable" in resp.text:
+                return resp
+            last_error = (
+                f"HTTP {resp.status_code}, no product table "
+                f"({len(resp.text)} bytes, X-Cache: "
+                f"{resp.headers.get('X-Cache', '?')})"
+            )
+        if attempt == max_attempts:
+            break
+        wait = min(20, 3 * 2 ** (attempt - 1)) + random.uniform(0, 2)
+        print(f"Attempt {attempt}/{max_attempts} failed ({last_error}), "
+              f"retrying in {wait:.0f}s...")
+        time.sleep(wait)
+    raise RuntimeError(f"Giving up after {max_attempts} attempts: {last_error}")
+
+
 def scrape():
     print("Fetching GPU benchmark data...")
-    resp = requests.get(URL, params=PARAMS, headers=HEADERS, timeout=30)
-    resp.raise_for_status()
+    resp = fetch_page()
 
     soup = BeautifulSoup(resp.text, "lxml")
     table = soup.select_one("table#productTable")
