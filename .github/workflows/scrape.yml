@@ -31,10 +31,19 @@ jobs:
             if python scraper.py; then
               exit 0
             fi
+            if [ "$round" = "3" ]; then
+              break
+            fi
             echo "Round $round failed. Waiting 5 minutes before next round..."
-            [ "$round" != "3" ] && sleep 300
+            sleep 300
           done
-          echo "All rounds failed -- UL site is likely down."
+          {
+            echo "### Scrape failed: benchmarks.ul.com is returning 500"
+            echo ""
+            echo "All 3 rounds failed. The UL compare/info pages are down on the"
+            echo "origin side (CloudFront serves a static 521-byte 500 page)."
+            echo "Committed data was left untouched."
+          } >> $GITHUB_STEP_SUMMARY
           exit 1
 
       - name: Check for changes

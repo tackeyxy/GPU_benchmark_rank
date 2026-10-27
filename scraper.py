@@ -8,7 +8,7 @@ import json
 from datetime import datetime, timezone
 
 URL = "https://benchmarks.ul.com/zh-hans/compare/best-gpus"
-# 两个坑，都是实测出来的，改动前请先确认：
+# 实测结论，改动前请先确认：
 # 1) 不能带查询参数。一旦带上 ?amount=0&sortBy=... 之类，源站一律 500。
 # 2) 不能自己设 Accept。只要 Accept 不是 */*（哪怕只写 text/html），
 #    源站也是一律 500。requests 默认发的就是 */*，这里显式写出来，
@@ -30,6 +30,14 @@ URL_VARIANTS = [
     URL,
     "https://benchmarks.ul.com/zh-hans/./compare/best-gpus",
 ]
+
+# 源站整体挂掉时（2026-10-26 起这次故障，compare/best-gpus、best-cpus、
+# hardware/gpu-list 全部命中一张 521 字节的静态 500 页，而首页、
+# compare/best-smartphones 仍然正常），换缓存键也没用。这种情况重试
+# 是白费，交给 workflow 里的轮次重试，别把整轮时间耗在必然失败的请求上。
+# 注意：平时零星 500 多半只是单个缓存键被污染，换键重试仍然有效，
+# 所以下面要连续 len(URL_VARIANTS) 次 5xx 才判定源站故障。
+FAIL_FAST_STATUSES = {500, 502, 503, 504}
 
 CSV_FILE = "gpu_benchmarks.csv"
 JSON_FILE = "gpu_benchmarks.json"
@@ -109,8 +117,12 @@ def fetch_page(max_attempts=MAX_ATTEMPTS):
     UL 源站会间歇性抽风，CloudFront 会返回一张 521 字节的静态 500
     错误页；正常页面约 426KB 且含 productTable。每次重试换一个
     CloudFront 缓存键，并做退避，通常几秒内就能拿到正常页面。
+
+    但如果所有缓存键都返回 5xx，说明是源站整体故障，而不是某个缓存
+    键被污染，换键重试没有意义，直接抛错交给上层轮次重试。
     """
     last_error = "unknown"
+    server_errors = 0
     for attempt in range(1, max_attempts + 1):
         url = URL_VARIANTS[(attempt - 1) % len(URL_VARIANTS)]
         try:
@@ -125,6 +137,18 @@ def fetch_page(max_attempts=MAX_ATTEMPTS):
                 f"({len(resp.text)} bytes, X-Cache: "
                 f"{resp.headers.get('X-Cache', '?')})"
             )
+            if resp.status_code in FAIL_FAST_STATUSES:
+                server_errors += 1
+                if server_errors >= len(URL_VARIANTS):
+                    raise RuntimeError(
+                        f"Origin appears to be down, all {server_errors} "
+                        f"cache keys returned 5xx: {last_error}"
+                    )
+                # 换一个键立即重试，不值得为源站故障等退避
+                print(f"Attempt {attempt}/{max_attempts} failed "
+                      f"({last_error}), trying another cache key...")
+                continue
+            server_errors = 0
         if attempt == max_attempts:
             break
         wait = min(20, 3 * 2 ** (attempt - 1)) + random.uniform(0, 2)
